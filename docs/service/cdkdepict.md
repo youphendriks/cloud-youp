@@ -12,7 +12,7 @@ A webservice the converts a SMILES into 2D depictions (SVG or PNG).
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
-  "@type": "ComputationalTool",
+  "@type": "SoftwareApplication",
   "http://purl.org/dc/terms/conformsTo": {
       "@type": "CreativeWork", "@id": "https://bioschemas.org/profiles/ComputationalTool/1.0-RELEASE"
   },
