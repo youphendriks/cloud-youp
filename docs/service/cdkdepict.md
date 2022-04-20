@@ -2,9 +2,12 @@
 
 A webservice the converts a SMILES into 2D depictions (SVG or PNG).
 
+<img width="300" align="right"
+     alt="screenshot of the service" 
+     src="cdkdepict.png">
 ## VHP4Safety Service
 
-* Development cloud: https://cdkdepict.cloud.vhp4safety.nl/
+* Development cloud: [https://cdkdepict.cloud.vhp4safety.nl/](https://cdkdepict.cloud.vhp4safety.nl/)
 * Contact: Egon Willighagen
 * OpenAPI: -
 
@@ -12,8 +15,8 @@ A webservice the converts a SMILES into 2D depictions (SVG or PNG).
 
 * Version: 1.9.2
 * License: LGPL 2.1
-* Source Code: https://github.com/cdk/depict
-* Docker: https://hub.docker.com/r/simolecule/cdkdepict
+* Source Code: [https://github.com/cdk/depict](https://github.com/cdk/depict)
+* Docker: [https://hub.docker.com/r/simolecule/cdkdepict](https://hub.docker.com/r/simolecule/cdkdepict)
 
 <script type="application/ld+json">
 {
