@@ -1,3 +1,6 @@
+<img width="300" align="right"
+     alt="VHP4Safety logo" 
+     src="https://vhp4safety.nl/wp-content/uploads/sites/725/2021/05/VHP-LOGO-100mm-RGB.png">
 # VHP4Safety Cloud Services
 
 This webpage gives an overview of the VHP4Safety Cloud Services.
