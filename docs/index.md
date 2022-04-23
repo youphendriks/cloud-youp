@@ -12,6 +12,9 @@ There currently is not production platform yet.
 
 # Development Platform
 
+<img width="150" align="right"
+     alt="screenshot of the service" 
+     src="service/cdkdepict.png">
 ## CDKDepict
 
 A webservice the converts a SMILES into 2D depictions (SVG or PNG). [[more info](service/cdkdepict.md)]
