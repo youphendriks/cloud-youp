@@ -8,15 +8,36 @@ A webservice the converts a SMILES into 2D depictions (SVG or PNG).
 ## VHP4Safety Service
 
 * Development cloud: [https://cdkdepict.cloud.vhp4safety.nl/](https://cdkdepict.cloud.vhp4safety.nl/)
+* Login required: No
+* Implementation status: 
+* TLR: TRL 8 - system complete and qualified
+* Type: -
 * Contact: Egon Willighagen
-* OpenAPI: -
+* API Type: REST
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
 
 ## Tool specifications
 
+* Provided by: simolecule
 * Version: 1.9.2
 * License: LGPL 2.1
 * Source Code: [https://github.com/cdk/depict](https://github.com/cdk/depict)
 * Docker: [https://hub.docker.com/r/simolecule/cdkdepict](https://hub.docker.com/r/simolecule/cdkdepict)
+* Citation: [https://doi.org/10.1186/s13321-017-0220-4](https://doi.org/10.1186/s13321-017-0220-4)
+
+## Tool integration
+
+- [ ] Utilises the VHP4Safety APIs to ensure that each service is accessible to our proposed interoperability layer.
+- [ ] Is annotated according to the semantic interoperability layer concept using defined ontologies.
+- [ ] Is containerised for easy deployment in virtual environments of VHP4Safety instances.
+- [ ] Has documented scientific and technical background.
+- [x] Is deployed into the VHP4Safety development environment.
+- [ ] Is deployed into the VHP4Safety production environment.
+- [x] Is listed in the VHP4Safety discovery services.
+- [ ] Is listed in other central repositories like eInfraCentral, bio.tools and TeSS (ELIXIR).
+- [ ] Provides legal and ethical statements on how the service can be used.
 
 <script type="application/ld+json">
 {
