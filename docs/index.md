@@ -14,6 +14,13 @@ There currently is not production platform yet.
 
 <img width="150" align="right"
      alt="screenshot of the service" 
+     src="http://aopwiki.cloud.vhp4safety.nl/assets/images/aopwiki-snorql-logo.png">
+## AOP-Wiki Snorql UI
+
+Graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki.md)]
+
+<img width="150" align="right"
+     alt="screenshot of the service" 
      src="service/cdkdepict.png">
 ## CDKDepict
 
