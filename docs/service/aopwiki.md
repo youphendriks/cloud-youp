@@ -4,7 +4,7 @@ Graphical interface to an AOP-Wiki SPARQL endpoint.
 
 <img width="300" align="right"
      alt="screenshot of the service" 
-     src="http://aopwiki.cloud.vhp4safety.nl/assets/images/aopwiki-snorql-logo.png">
+     src="aopwiki.png">
 ## VHP4Safety Service
 
 * Development cloud: [https://aopwiki.cloud.vhp4safety.nl/](https://aopwiki.cloud.vhp4safety.nl/)
