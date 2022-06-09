@@ -21,6 +21,13 @@ Graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki
 
 <img width="150" align="right"
      alt="screenshot of the service" 
+     src="service/bridgedb.png">
+## BridgeDb
+
+A framework to map identifiers between various biological databases and related sources. [[more info](service/bridgedb.md)]
+
+<img width="150" align="right"
+     alt="screenshot of the service" 
      src="service/cdkdepict.png">
 ## CDKDepict
 
