@@ -22,7 +22,7 @@ A webservice the converts a SMILES into 2D depictions (SVG or PNG).
 
 * Provided by: simolecule
 * Citation: [https://doi.org/10.1186/s13321-017-0220-4](https://doi.org/10.1186/s13321-017-0220-4)
-* Version: 1.9.2
+* Version: 1.9.3
 * License: LGPL 2.1
 * Source Code: [https://github.com/cdk/depict](https://github.com/cdk/depict)
 * Docker: [https://hub.docker.com/r/simolecule/cdkdepict](https://hub.docker.com/r/simolecule/cdkdepict)
