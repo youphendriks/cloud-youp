@@ -7,7 +7,7 @@ A framework to map identifiers between various biological databases and related 
      src="bridgedb.png">
 ## VHP4Safety Service
 
-* Development cloud: [http://bridgedb.cloud.vhp4safety.nl/](http://bridgedb.cloud.vhp4safety.nl/swagger/)
+* Development cloud: [https://bridgedb.cloud.vhp4safety.nl/](https://bridgedb.cloud.vhp4safety.nl/swagger/)
 * Login required: No
 * Implementation status: 
 * TLR: 

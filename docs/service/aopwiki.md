@@ -7,7 +7,7 @@ Graphical interface to an AOP-Wiki SPARQL endpoint.
      src="aopwiki.png">
 ## VHP4Safety Service
 
-* Development cloud: [http://aopwiki.cloud.vhp4safety.nl/](http://aopwiki.cloud.vhp4safety.nl/)
+* Development cloud: [https://aopwiki.cloud.vhp4safety.nl/](https://aopwiki.cloud.vhp4safety.nl/)
 * Login required: No
 * Implementation status: 
 * TLR: -
