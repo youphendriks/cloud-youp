@@ -33,7 +33,7 @@ A framework to map identifiers between various biological databases and related 
 
 A webservice that converts a SMILES into 2D depictions (SVG or PNG). [[more info](service/cdkdepict.md)]
 
-## Docking and SOM Prediction
+## SOM Prediction
 
 A webservice to combine site-of-metabolism and reactivity for (P450) site-of-metabolism prediction. [[more info](service/sombie.md)]
 

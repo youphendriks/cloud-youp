@@ -1,4 +1,4 @@
-# Docking and SOM Prediction
+# SOM Prediction
 
 A webservice to combine site-of-metabolism and reactivity for (P450) site-of-metabolism prediction.
 
