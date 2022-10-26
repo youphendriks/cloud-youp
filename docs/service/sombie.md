@@ -1,6 +1,6 @@
 # SOM Prediction
 
-A webservice to combine site-of-metabolism and reactivity for (P450) site-of-metabolism prediction.
+A webservice for protein-structure and reactivity based (P450) site-of-metabolism prediction.
 
 ## VHP4Safety Service
 

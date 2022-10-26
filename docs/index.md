@@ -35,7 +35,7 @@ A webservice that converts a SMILES into 2D depictions (SVG or PNG). [[more info
 
 ## SOM Prediction
 
-A webservice to combine site-of-metabolism and reactivity for (P450) site-of-metabolism prediction. [[more info](service/sombie.md)]
+A webservice for protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more info](service/sombie.md)]
 
 ### Funding
 
