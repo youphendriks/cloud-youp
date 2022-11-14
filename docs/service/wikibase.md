@@ -4,7 +4,7 @@ A Wikibase instance to hold information about compounds.
 
 <img width="300" align="right"
      alt="screenshot of the service" 
-     src="bridgedb.png">
+     src="VHP4Safety_ChemicalCompounds.png">
 ## VHP4Safety Service
 
 * Development cloud: [https://compoundcloud.wikibase.cloud/](https://compoundcloud.wikibase.cloud/)
