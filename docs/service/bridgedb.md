@@ -27,7 +27,7 @@ A framework to map identifiers between various biological databases and related 
 * Source Code: [https://github.com/bridgedb/BridgeDb](https://github.com/bridgedb/BridgeDb)
 * Docker: [https://hub.docker.com/r/bigcatum/bridgedb](https://hub.docker.com/r/bigcatum/bridgedb)
 * Bio.tools: [https://bio.tools/bridgedb](https://bio.tools/bridgedb)
-* TeSS: -
+* TeSS: [https://tess.elixir-europe.org/search?q=bridgedb](https://tess.elixir-europe.org/search?q=bridgedb)
 
 ## Tool integration
 
