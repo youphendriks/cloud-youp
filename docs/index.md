@@ -49,6 +49,13 @@ A webservice that converts a SMILES into 2D depictions (SVG or PNG). [[more info
 
 A webservice for protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more info](service/sombie.md)]
 
+<img width="150" align="right"
+     alt="screenshot of the service" 
+     src="service/VHP4Safety_ChemicalCompounds.png">
+## VHP4Safety Wikibase
+
+A Wikibase instance to hold information about compounds.
+
 ### Funding
 
 VHP4Safety – the Virtual Human Platform for safety assessment project
