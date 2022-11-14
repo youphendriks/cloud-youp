@@ -21,7 +21,8 @@ VHP4Safety needs a cloud with a high diversity of services to support their case
 The services will run on but also outside the VHP4Safety cloud, on a case by case basis.
 
 Below you find an overview of services available in the context of the VHP4Safety Platform.
-Additional services have been suggested and users can request additional services.
+[Additional services have been suggested](https://github.com/VHP4Safety/cloud/labels/service)
+and users can [request additional services](https://github.com/VHP4Safety/cloud/issues/new/choose).
 
 <img width="150" align="right"
      alt="screenshot of the service" 
