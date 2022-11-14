@@ -4,13 +4,24 @@
 # VHP4Safety Cloud Services
 
 This webpage gives an overview of the VHP4Safety Cloud Services on the Production and
-Development platforms.
+Development platforms. The second is where we develop and test cloud services, while the
+first runs a stable version of the service.
 
-# Production Platform
+### Production VHP4Safety Platform
 
 There currently is not production platform yet.
 
-# Development Platform
+### Development VHP4Safety Platform
+
+The current development platform runs several services.
+
+# Cloud catalog
+
+VHP4Safety needs a cloud with a high diversity of services to support their case studies.
+The services will run on but also outside the VHP4Safety cloud, on a case by case basis.
+
+Below you find an overview of services available in the context of the VHP4Safety Platform.
+Additional services have been suggested and users can request additional services.
 
 <img width="150" align="right"
      alt="screenshot of the service" 
