@@ -54,7 +54,7 @@ A webservice for protein-structure and reactivity based (P450) site-of-metabolis
      src="service/VHP4Safety_ChemicalCompounds.png">
 ## VHP4Safety Wikibase
 
-A Wikibase instance to hold information about compounds.
+A Wikibase instance to hold information about compounds. [[more info](service/wikibase.md)]
 
 ### Funding
 
