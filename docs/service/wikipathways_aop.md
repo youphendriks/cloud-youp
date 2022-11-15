@@ -2,7 +2,7 @@
 
 This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs.
 
-<img width="300" align="right"
+<img width="200" align="right"
      alt="screenshot of the service" 
      src="wikipathways_aop.png">
 ## VHP4Safety Service
@@ -51,6 +51,6 @@ This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the mole
   "@id" : "https://vhp4safety.github.io/cloud/service/wikipathways_aop",
   "name": "WikiPathways - AOP Portal", 
   "description": "The Adverse Outcome Pathway (AOP) portal for WikiPathways.",
-  "url": "https://www.wikipathways.org/index.php/Portal:AOP/"
+  "url": "https://www.wikipathways.org/index.php/Portal:AOP"
 }
 </script>

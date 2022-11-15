@@ -56,7 +56,7 @@ A webservice for protein-structure and reactivity based (P450) site-of-metabolis
 
 A Wikibase instance to hold information about compounds. [[more info](service/wikibase.md)]
 
-<img width="150" align="right"
+<img width="100" align="right"
      alt="screenshot of the service" 
      src="service/wikipathways_aop.png">
 ## WikiPathways - AOP Portal
