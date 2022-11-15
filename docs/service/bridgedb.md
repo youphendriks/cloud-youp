@@ -22,7 +22,7 @@ A framework to map identifiers between various biological databases and related 
 
 * Provided by: bigcatum
 * Citation: [https://doi.org/10.1186/1471-2105-11-5](https://doi.org/10.1186/1471-2105-11-5)
-* Version: 3.0.13
+* Version: 2.3.3
 * License: Apache-2.0
 * Source Code: [https://github.com/bridgedb/BridgeDb](https://github.com/bridgedb/BridgeDb)
 * Docker: [https://hub.docker.com/r/bigcatum/bridgedb](https://hub.docker.com/r/bigcatum/bridgedb)
@@ -52,7 +52,7 @@ A framework to map identifiers between various biological databases and related 
   "name": "BridgeDb", 
   "description": "A framework to map identifiers between various biological databases and related sources.",
   "url": "https://bridgedb.github.io/",
-  "softwareVersion": "3.0.13",
+  "softwareVersion": "2.3.3",
   "license": "https://www.apache.org/licenses/LICENSE-2.0"
 }
 </script>
