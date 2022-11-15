@@ -31,6 +31,7 @@ and users can [request additional services](https://github.com/VHP4Safety/cloud/
 
 Graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki.md)]
 
+\
 <img width="150" align="right"
      alt="screenshot of the service" 
      src="service/bridgedb.png">
@@ -38,6 +39,7 @@ Graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki
 
 A framework to map identifiers between various biological databases and related sources. [[more info](service/bridgedb.md)]
 
+\
 <img width="150" align="right"
      alt="screenshot of the service" 
      src="service/cdkdepict.png">
@@ -49,6 +51,7 @@ A webservice that converts a SMILES into 2D depictions (SVG or PNG). [[more info
 
 A webservice for protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more info](service/sombie.md)]
 
+\
 <img width="150" align="right"
      alt="screenshot of the service" 
      src="service/VHP4Safety_ChemicalCompounds.png">
@@ -56,7 +59,8 @@ A webservice for protein-structure and reactivity based (P450) site-of-metabolis
 
 A Wikibase instance to hold information about compounds. [[more info](service/wikibase.md)]
 
-<img width="100" align="right"
+\
+<img width="150" align="right"
      alt="screenshot of the service" 
      src="service/wikipathways_aop.png">
 ## WikiPathways - AOP Portal
