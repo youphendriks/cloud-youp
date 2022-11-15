@@ -41,7 +41,7 @@ A framework to map identifiers between various biological databases and related 
 <img width="150" align="right"
      alt="screenshot of the service" 
      src="service/cdkdepict.png">
-## CDKDepict
+## CDK Depict
 
 A webservice that converts a SMILES into 2D depictions (SVG or PNG). [[more info](service/cdkdepict.md)]
 
@@ -55,6 +55,14 @@ A webservice for protein-structure and reactivity based (P450) site-of-metabolis
 ## VHP4Safety Wikibase
 
 A Wikibase instance to hold information about compounds. [[more info](service/wikibase.md)]
+
+<img width="150" align="right"
+     alt="screenshot of the service" 
+     src="service/wikipathways_aop.png">
+## WikiPathways - AOP Portal
+
+This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs. [[more info](service/wikipathways_aop.md)]
+
 
 ### Funding
 
