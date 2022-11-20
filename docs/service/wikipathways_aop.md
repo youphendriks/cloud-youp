@@ -7,7 +7,7 @@ This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the mole
      src="wikipathways_aop.png">
 ## VHP4Safety Service
 
-* Development cloud: [https://www.wikipathways.org/index.php/Portal:AOP](https://www.wikipathways.org/index.php/Portal:AOP)
+* Development cloud: [http://aop.wikipathways.org/](http://aop.wikipathways.org/)
 * Login required: No
 * Implementation status: 
 * TLR: -
