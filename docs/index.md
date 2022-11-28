@@ -54,6 +54,14 @@ A webservice for protein-structure and reactivity based (P450) site-of-metabolis
 \
 <img width="150" align="right"
      alt="screenshot of the service" 
+     src="service/txg_mapr.png">
+## TXG-MAPr
+
+An R-Shiny-based implementation of weighted gene co-expression network analysis (WGCNA) obtained from the Primary Human Hepatocytes (PHH) TG-GATEs dataset. [[more info](service/txg_mapr.md)]
+
+\
+<img width="150" align="right"
+     alt="screenshot of the service" 
      src="service/VHP4Safety_ChemicalCompounds.png">
 ## VHP4Safety Wikibase
 
