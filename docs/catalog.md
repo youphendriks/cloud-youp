@@ -30,6 +30,14 @@ A framework to map identifiers between various biological databases and related 
 
 A webservice that converts a SMILES into 2D depictions (SVG or PNG). [[more info](service/cdkdepict.md)]
 
+\
+<img width="150" align="right"
+     alt="screenshot of the service" 
+     src="service/decimer.png">
+## DECIMER
+
+tool to extract chemicals from 2D depictions in PDFs and images. [[more info](service/decimer.md)]
+
 ## SOM Prediction
 
 A webservice for protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more info](service/sombie.md)]
