@@ -34,6 +34,10 @@ A webservice that converts a SMILES into 2D depictions (SVG or PNG). [[more info
 
 A webservice for protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more info](service/sombie.md)]
 
+## SysRev
+
+A service to support literature research. [[more info](service/sysrev.md)]
+
 \
 <img width="150" align="right"
      alt="screenshot of the service" 
