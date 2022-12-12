@@ -27,7 +27,7 @@ This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the mole
 * Source Code: 
 * Docker: 
 * Bio.tools: [https://bio.tools/wikipathways](https://bio.tools/wikipathways)
-* TeSS: 
+* TeSS: [https://tess.elixir-europe.org/materials?q=WikiPathways](https://tess.elixir-europe.org/materials?q=WikiPathways)
 
 ## Tool integration
 
