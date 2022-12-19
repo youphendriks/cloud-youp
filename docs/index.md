@@ -68,7 +68,11 @@ A Wikibase instance to hold information about compounds. [[more info](service/wi
 
 A framework to map identifiers between various biological databases and related sources. [[more info](service/bridgedb.md)]
 
-## SysRev
+### PopGen
+
+A service to generate online virtual human population. [[more info](service/popgen.md)]
+
+### SysRev
 
 A service to support literature research. [[more info](service/sysrev.md)]
 

@@ -38,6 +38,10 @@ A webservice that converts a SMILES into 2D depictions (SVG or PNG). [[more info
 
 tool to extract chemicals from 2D depictions in PDFs and images. [[more info](service/decimer.md)]
 
+## PopGen
+
+A service to generate online virtual human population. [[more info](service/popgen.md)]
+
 ## SOM Prediction
 
 A webservice for protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more info](service/sombie.md)]
