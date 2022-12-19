@@ -18,7 +18,7 @@ Service to generate online virtual human population.
 ## Tool specifications
 
 * Provided by: [UK Health and Safety Laboratory](http://www.hsl.gov.uk/)
-* Citation: Willmann, S., Höhn, K., Edginton, A., Sevestre, M., Solodenko, J., Weiss, W., Lippert, J. & Schmitt, W. (2007). Development of a physiology-based whole-body population model for assessing the influence of individual variability on the pharmacokinetics of drugs. Journal of pharmacokinetics and pharmacodynamics, 34(3), 401-431. doi: [10.1007/s10928-007-9053-5](https://doi.org/10.1007/s10928-007-9053-5)
+* Citation: Willmann, S., Höhn, K., Edginton, A., Sevestre, M., Solodenko, J., Weiss, W., Lippert, J. and Schmitt, W. (2007). Development of a physiology-based whole-body population model for assessing the influence of individual variability on the pharmacokinetics of drugs. Journal of pharmacokinetics and pharmacodynamics, 34(3), 401-431. doi: [10.1007/s10928-007-9053-5](https://doi.org/10.1007/s10928-007-9053-5)
 * Version: 0.3.11183.0
 * License: Copyright by Bayer CropScience AG 2008
 * Source Code: -

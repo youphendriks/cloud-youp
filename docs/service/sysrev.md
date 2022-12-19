@@ -18,7 +18,7 @@ Service to support literature research.
 ## Tool specifications
 
 * Provided by: -
-* Citation: Bozada T, Borden J, Workman J, Del Cid M, Malinowski J and Luechtefeld T (2021) Sysrev: A FAIR Platform for Data Curation and Systematic Evidence Review. Front. Artif. Intell. 4:685298. doi: [10.3389/frai.2021.685298](https://doi.org/10.3389/frai.2021.685298)
+* Citation: Bozada Jr, T., Borden, J., Workman, J., Del Cid, M., Malinowski, J., and Luechtefeld, T. (2021). SysRev: A FAIR platform for data curation and systematic evidence review. Frontiers in Artificial Intelligence, 105. doi: [10.3389/frai.2021.685298](https://doi.org/10.3389/frai.2021.685298)
 * Version: -
 * License: -
 * Source Code: -

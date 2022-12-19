@@ -21,7 +21,7 @@ An R-Shiny-based implementation of weighted gene co-expression network analysis 
 ## Tool specifications
 
 * Provided by: Leiden University
-* Citation (DOI): [10.1007/s00204-021-03141-w](https://doi.org/10.1007/s00204-021-03141-w)
+* Citation: Callegaro, G., Kunnen, S. J., Trairatphisan, P., Grosdidier, S., Niemeijer, M., den Hollander, W., Guney, E., Gonzalez, J. P., Furlong, L., Webster, Y. W., Saez-Rodriguez, J., Sutherland, J. J., Mollon, J., Stevens, J. L. and van de Water, B. (2021). The human hepatocyte TXG-MAPr: gene co-expression network modules to support mechanism-based risk assessment. Archives of toxicology, 95(12), 3745-3775. doi: [10.1007/s00204-021-03141-w](https://doi.org/10.1007/s00204-021-03141-w)
 * Version: 
 * License: Proprietary
 * Source Code: Proprietary

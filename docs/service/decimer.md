@@ -21,7 +21,7 @@ Online service to extract chemical structures from PDFs and images.
 ## Tool specifications
 
 * Provided by: University of Jena
-* Citation: https://doi.org/10.1186/s13321-021-00538-8
+* Citation: Rajan, K., Zielesny, A., and Steinbeck, C. (2021). DECIMER 1.0: deep learning for chemical image recognition using transformers. Journal of Cheminformatics, 13(1), 1-16. doi: [10.1186/s13321-021-00538-8](https://doi.org/10.1186/s13321-021-00538-8)
 * Version? Latest
 * License? [MIT license](https://github.com/Kohulan/DECIMER-Image_Transformer/blob/master/LICENSE)
 * Source Code? https://github.com/Kohulan/DECIMER-Image_Transformer

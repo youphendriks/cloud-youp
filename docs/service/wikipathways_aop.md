@@ -21,7 +21,7 @@ This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the mole
 ## Tool specifications
 
 * Provided by: UM
-* Citation (DOI): [10.3389/fgene.2018.00661](https://doi.org/10.3389/fgene.2018.00661)
+* Citation: Martens, M., Verbruggen, T., Nymark, P., Grafström, R., Burgoon, L. D., Aladjov, H., Andón, F. T., Evelo, C. T. and Willighagen, E. L. (2018). Introducing WikiPathways as a data-source to support adverse outcome pathways for regulatory risk assessment of chemicals and nanomaterials. Frontiers in Genetics, 9, 661. doi: [10.3389/fgene.2018.00661](https://doi.org/10.3389/fgene.2018.00661)
 * Version: 
 * License: [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 * Source Code: 

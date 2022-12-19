@@ -21,7 +21,7 @@ A framework to map identifiers between various biological databases and related 
 ## Tool specifications
 
 * Provided by: bigcatum
-* Citation: [https://doi.org/10.1186/1471-2105-11-5](https://doi.org/10.1186/1471-2105-11-5)
+* Citation: van Iersel, M. P., Pico, A. R., Kelder, T., Gao, J., Ho, I., Hanspers, K., Conklin, B. R. and Evelo, C. T. (2010). The BridgeDb framework: standardized access to gene, protein and metabolite identifier mapping services. BMC bioinformatics, 11(1), 1-7. doi: [10.1186/1471-2105-11-5](https://doi.org/10.1186/1471-2105-11-5)
 * Version: 2.3.3
 * License: Apache-2.0
 * Source Code: [https://github.com/bridgedb/BridgeDb](https://github.com/bridgedb/BridgeDb)

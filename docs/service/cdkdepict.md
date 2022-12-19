@@ -21,7 +21,7 @@ A webservice the converts a SMILES into 2D depictions (SVG or PNG).
 ## Tool specifications
 
 * Provided by: simolecule
-* Citation: [https://doi.org/10.1186/s13321-017-0220-4](https://doi.org/10.1186/s13321-017-0220-4)
+* Citation: Willighagen, E. L., Mayfield, J. W., Alvarsson, J., Berg, A., Carlsson, L., Jeliazkova, N., Kuhn, S., Pluskal, T., Rojas-Chertó, M., Spjuth, O., Torrance, G., Evelo, C. T., Guha, R. and Steinbeck, C. (2017). The Chemistry Development Kit (CDK) v2. 0: atom typing, depiction, molecular formulas, and substructure searching. Journal of cheminformatics, 9(1), 1-19. doi: [10.1186/s13321-017-0220-4](https://doi.org/10.1186/s13321-017-0220-4)
 * Version: 1.9.3
 * License: LGPL 2.1
 * Source Code: [https://github.com/cdk/depict](https://github.com/cdk/depict)
