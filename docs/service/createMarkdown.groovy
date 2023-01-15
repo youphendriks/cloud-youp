@@ -12,7 +12,11 @@ def getData(data, selector) {
     index = selector.indexOf(".")
     first = selector.substring(0,index)
     second = selector.substring(index+1)
-    return getData(data[first], second)
+    if (data[first]) {
+      return getData(data[first], second)
+    } else {
+      return null
+    }
   } else {
     if (data[selector]) {
       return data[selector]
