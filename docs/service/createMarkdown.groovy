@@ -13,7 +13,7 @@ def getData(data, selector) {
     first = selector.substring(0,index)
     second = selector.substring(index+1)
     println first + " + " + second
-    return null
+    return getData(data[first], second)
   } else {
     if (data[selector]) {
       return data[selector]
