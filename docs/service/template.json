@@ -5,6 +5,12 @@
   "screenshot": "",
   "url": "",
   "doi": "",
+  "instance": {
+    "license": "",
+    "version": "",
+    "source": "",
+    "docker": ""
+  },
   "provider": {
     "contact": {
       "name": ""
@@ -13,6 +19,11 @@
     "name": ""
   },
   "access": {
+    "API": "",
     "login": ""
+  },
+  "ELIXIR": {
+    "biotools": "",
+    "tess": ""
   }
 }
