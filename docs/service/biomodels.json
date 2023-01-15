@@ -1,0 +1,18 @@
+{
+  "id": "biomodels",
+  "service": "BioModels",
+  "description": "BioModels is a repository of mathematical models of biological and biomedical systems.",
+  "screenshot": "",
+  "url": "https://www.ebi.ac.uk/biomodels/",
+  "doi": "10.1093/nar/gkz1055",
+  "provider": {
+    "contact": {
+      "name": ""
+    },
+    "url": "https://www.ebi.ac.uk/biomodels/",
+    "name": "EMBL-EBI"
+  },
+  "access": {
+    "login": "no"
+  }
+}
