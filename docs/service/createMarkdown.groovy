@@ -7,6 +7,35 @@ import groovy.json.JsonSlurper
 
 templateFile = "template.md"
 
+def getData(data, selector) {
+  if (selector.contains(".")) {
+    index = selector.indexOf(".")
+    first = selector.substring(0,index)
+    second = selector.substring(index+1)
+    println first + " + " + second
+    return null
+  } else {
+    if (data[selector]) {
+      return data[selector]
+    } else {
+      return null
+    }
+  }
+}
+
+def process(line, data, selector) {
+  return processRich(line, data, selector, null)
+}
+
+def processRich(line, data, selector, expanding) {
+  toReplace = "%" + selector + "%"
+  content = getData(data, selector)
+  if (content == null) return line.replaceAll(toReplace, "")
+  if (expanding != null) content = expanding.replaceAll(toReplace, content)
+  return line.replaceAll(toReplace, content)
+}
+
+
 args.each { dataFile ->
 if (dataFile != "template.json") {
   println dataFile
@@ -18,16 +47,17 @@ if (dataFile != "template.json") {
 
   lines = new File(templateFile).readLines()
   lines.each { String line ->
-    if (line.contains("%id%")) { outputFile << line.replaceAll("%id%", data.id) } else
-    if (line.contains("%service%")) { outputFile << line.replaceAll("%service%", data.service) } else
-    if (line.contains("%url%")) { outputFile << line.replaceAll("%url%", data.url) } else
-    if (line.contains("%description%")) { outputFile << line.replaceAll("%description%", data.description) } else
-    if (line.contains("%screenshot%")) { outputFile << line.replaceAll("%screenshot%", data.screenshot) } else
-    if (line.contains("%provider.name%")) { outputFile << line.replaceAll("%provider.name%", data.provider.name) } else
-    if (line.contains("%provider.contact.name%")) { outputFile << line.replaceAll("%provider.contact.name%", data.provider.contact.name) } else
-    if (line.contains("%access.login%")) { outputFile << line.replaceAll("%access.login%", data.access.login) } else
-    { outputFile << line }
-    outputFile << "\n"
+    if (line.contains("%id%")) { line = process(line, data, "id") }
+    if (line.contains("%service%")) { line = line.replaceAll("%service%", data.service) }
+    if (line.contains("%url%")) { line = process(line, data, "url") }
+    if (line.contains("%doi%")) { line = processRich(line, data, "doi", "[%doi%](%doi%)") }
+    if (line.contains("%description%")) { line = line.replaceAll("%description%", data.description) }
+    if (line.contains("%screenshot%")) { line = processRich(line, data, "screenshot", "<img width=\"300\" align=\"right\" alt=\"screenshot of the service\" src=\"%screenshot%\">") }
+    if (line.contains("%provider.name%")) { line = line.replaceAll("%provider.name%", data.provider.name) }
+    if (line.contains("%provider.url%")) { line = processRich(line, data, "provider.url", "([%provider.url%](%provider.url%))") }
+    if (line.contains("%provider.contact.name%")) { line = line.replaceAll("%provider.contact.name%", data.provider.contact.name) }
+    if (line.contains("%access.login%")) { line = line.replaceAll("%access.login%", data.access.login) }
+    outputFile << line + "\n"
   }
 }
 }
