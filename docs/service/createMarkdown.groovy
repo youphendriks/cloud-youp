@@ -59,6 +59,13 @@ if (dataFile != "template.json") {
     if (line.contains("%provider.url%")) { line = processRich(line, data, "provider.url", "([%provider.url%](%provider.url%))") }
     if (line.contains("%provider.contact.name%")) { line = process(line, data, "provider.contact.name") }
     if (line.contains("%access.login%")) { line = process(line, data, "access.login") }
+    if (line.contains("%access.API%")) { line = process(line, data, "access.API") }
+    if (line.contains("%instance.version%")) { line = process(line, data, "instance.version") }
+    if (line.contains("%instance.license%")) { line = process(line, data, "instance.license") }
+    if (line.contains("%instance.source%")) { line = processRich(line, data, "instance.source", "[%instance.source%](%instance.source%)") }
+    if (line.contains("%instance.docker%")) { line = processRich(line, data, "instance.docker", "[%instance.docker%](%instance.docker%)") }
+    if (line.contains("%ELIXIR.biotools%")) { line = processRich(line, data, "ELIXIR.biotools", "[https://bio.tools/%ELIXIR.biotools%](https://bio.tools/%ELIXIR.biotools%)") }
+    if (line.contains("%ELIXIR.tess%")) { line = processRich(line, data, "ELIXIR.tess", "[https://tess.elixir-europe.org/%ELIXIR.tess%](https://tess.elixir-europe.org/%ELIXIR.tess%)") }
     outputFile << line + "\n"
   }
 }

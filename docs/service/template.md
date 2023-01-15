@@ -13,7 +13,7 @@
 * TLR: -
 * Type: -
 * Contact: %provider.contact.name%
-* API Type: -
+* API Type: %access.API%
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -
@@ -22,12 +22,12 @@
 
 * Provided by: %provider.name% %provider.url%
 * Citation: %doi%
-* Version: -
-* License: -
-* Source Code: -
-* Docker: -
-* Bio.tools: -
-* TeSS: -
+* Version: %instance.version%
+* License: %instance.license%
+* Source Code: %instance.source%
+* Docker: %instance.docker%
+* Bio.tools: %ELIXIR.biotools%
+* TeSS: %ELIXIR.tess%
 
 ## Tool integration
 
