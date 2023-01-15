@@ -48,15 +48,15 @@ if (dataFile != "template.json") {
   lines = new File(templateFile).readLines()
   lines.each { String line ->
     if (line.contains("%id%")) { line = process(line, data, "id") }
-    if (line.contains("%service%")) { line = line.replaceAll("%service%", data.service) }
+    if (line.contains("%service%")) { line = process(line, data, "service") }
     if (line.contains("%url%")) { line = process(line, data, "url") }
-    if (line.contains("%doi%")) { line = processRich(line, data, "doi", "[%doi%](%doi%)") }
-    if (line.contains("%description%")) { line = line.replaceAll("%description%", data.description) }
+    if (line.contains("%doi%")) { line = processRich(line, data, "doi", "[https://doi.org/%doi%](https://doi.org/%doi%)") }
+    if (line.contains("%description%")) { line = process(line, data, "description") }
     if (line.contains("%screenshot%")) { line = processRich(line, data, "screenshot", "<img width=\"300\" align=\"right\" alt=\"screenshot of the service\" src=\"%screenshot%\">") }
-    if (line.contains("%provider.name%")) { line = line.replaceAll("%provider.name%", data.provider.name) }
+    if (line.contains("%provider.name%")) { line = process(line, data, "provider.name") }
     if (line.contains("%provider.url%")) { line = processRich(line, data, "provider.url", "([%provider.url%](%provider.url%))") }
-    if (line.contains("%provider.contact.name%")) { line = line.replaceAll("%provider.contact.name%", data.provider.contact.name) }
-    if (line.contains("%access.login%")) { line = line.replaceAll("%access.login%", data.access.login) }
+    if (line.contains("%provider.contact.name%")) { line = process(line, data, "provider.contact.name") }
+    if (line.contains("%access.login%")) { line = process(line, data, "access.login") }
     outputFile << line + "\n"
   }
 }
