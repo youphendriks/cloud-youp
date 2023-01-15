@@ -13,7 +13,7 @@ BioModels is a repository of mathematical models of biological and biomedical sy
 * TLR: -
 * Type: -
 * Contact: 
-* API Type: -
+* API Type: 
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -
@@ -22,12 +22,12 @@ BioModels is a repository of mathematical models of biological and biomedical sy
 
 * Provided by: EMBL-EBI ([https://www.ebi.ac.uk/biomodels/](https://www.ebi.ac.uk/biomodels/))
 * Citation: [https://doi.org/10.1093/nar/gkz1055](https://doi.org/10.1093/nar/gkz1055)
-* Version: -
-* License: -
-* Source Code: -
-* Docker: -
-* Bio.tools: -
-* TeSS: -
+* Version: 
+* License: 
+* Source Code: 
+* Docker: 
+* Bio.tools: 
+* TeSS: 
 
 ## Tool integration
 

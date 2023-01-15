@@ -13,7 +13,7 @@ Graphical interface to an AOP-Wiki SPARQL endpoint.
 * TLR: -
 * Type: -
 * Contact: Marvin Martens
-* API Type: -
+* API Type: 
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -
@@ -22,12 +22,12 @@ Graphical interface to an AOP-Wiki SPARQL endpoint.
 
 * Provided by: BiGCaT, Maastricht University 
 * Citation: 
-* Version: -
-* License: -
-* Source Code: -
-* Docker: -
-* Bio.tools: -
-* TeSS: -
+* Version: 
+* License: 
+* Source Code: 
+* Docker: 
+* Bio.tools: 
+* TeSS: 
 
 ## Tool integration
 
