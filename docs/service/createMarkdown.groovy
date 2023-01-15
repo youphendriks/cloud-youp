@@ -12,7 +12,6 @@ def getData(data, selector) {
     index = selector.indexOf(".")
     first = selector.substring(0,index)
     second = selector.substring(index+1)
-    println first + " + " + second
     return getData(data[first], second)
   } else {
     if (data[selector]) {
@@ -38,7 +37,6 @@ def processRich(line, data, selector, expanding) {
 
 args.each { dataFile ->
 if (dataFile != "template.json") {
-  println dataFile
   fileContents = new File(dataFile).text
   def data = new JsonSlurper().parseText(fileContents)
 
