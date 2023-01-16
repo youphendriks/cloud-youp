@@ -10,7 +10,7 @@
 * Development cloud: [%url%](%url%)
 * Login required: %access.login%
 * Implementation status: 
-* TLR: -
+* TRL: %instance.TRL%
 * Type: -
 * Contact: %provider.contact.name%
 * API Type: %access.API%
