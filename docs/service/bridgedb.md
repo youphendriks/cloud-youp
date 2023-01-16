@@ -10,7 +10,7 @@ A framework to map identifiers between various biological databases and related 
 * Development cloud: [https://bridgedb.cloud.vhp4safety.nl/](https://bridgedb.cloud.vhp4safety.nl/)
 * Login required: no
 * Implementation status: 
-* TLR: -
+* TRL: 
 * Type: -
 * Contact: 
 * API Type: REST

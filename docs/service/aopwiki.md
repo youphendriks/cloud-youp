@@ -10,7 +10,7 @@ Graphical interface to an AOP-Wiki SPARQL endpoint.
 * Development cloud: [https://aopwiki.cloud.vhp4safety.nl/](https://aopwiki.cloud.vhp4safety.nl/)
 * Login required: No
 * Implementation status: 
-* TLR: -
+* TRL: 
 * Type: -
 * Contact: Marvin Martens
 * API Type: 

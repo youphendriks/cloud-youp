@@ -10,7 +10,7 @@ BioModels is a repository of mathematical models of biological and biomedical sy
 * Development cloud: [https://www.ebi.ac.uk/biomodels/](https://www.ebi.ac.uk/biomodels/)
 * Login required: no
 * Implementation status: 
-* TLR: -
+* TRL: 
 * Type: -
 * Contact: 
 * API Type: 
