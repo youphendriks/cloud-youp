@@ -38,7 +38,7 @@ function initTeSSWidgets() {
         'SimpleList',
         {
             opts: {
-              enableSearch: true
+              enableSearch: false
             },
             params: {
                 pageSize: 5,
