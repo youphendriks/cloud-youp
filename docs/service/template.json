@@ -6,6 +6,9 @@
   "url": "",
   "doi": "",
   "instance": {
+    "type": "",
+    "vhp-platform": "",
+    "url": "",
     "license": "",
     "version": "",
     "source": "",
@@ -14,7 +17,8 @@
   },
   "provider": {
     "contact": {
-      "name": ""
+      "name": "",
+      "email": ""
     },
     "url": "",
     "name": ""

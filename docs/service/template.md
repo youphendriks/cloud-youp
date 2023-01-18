@@ -5,14 +5,14 @@
 %description%
 
 %screenshot%
-## VHP4Safety Service
+## %instance.type% Service
 
-* Development cloud: [%url%](%url%)
+* %instance.vhp-platform% cloud: [%url%](%url%) [%instance.url%](%instance.url%)
 * Login required: %access.login%
 * Implementation status: 
 * TRL: %instance.TRL%
 * Type: -
-* Contact: %provider.contact.name%
+* Contact: %provider.contact.name% %provider.contact.email%
 * API Type: %access.API%
 * Categories: -
 * Targeted users: -
