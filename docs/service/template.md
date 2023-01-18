@@ -34,7 +34,7 @@
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
 function initTeSSWidgets() {
-    var query = '%ELIXIR.tess%';
+    var query = '%ELIXIR.tess.noExpand%';
     if (query.trim() != "") {
         TessWidget.Materials(document.getElementById('tess-widget-materials-list'),
             'SimpleList',

@@ -32,7 +32,11 @@ def process(line, data, selector) {
 
 def processRich(line, data, selector, expanding) {
   toReplace = "%" + selector + "%"
-  content = getData(data, selector)
+  if (selector.endsWith(".noExpand")) {
+    content = getData(data, selector.substring(0, selector.indexOf(".noExpand")))
+  } else {
+    content = getData(data, selector)
+  }
   if (content == null) return line.replaceAll(toReplace, "")
   if (expanding != null) content = expanding.replaceAll(toReplace, content)
   return line.replaceAll(toReplace, content)
@@ -70,7 +74,8 @@ if (dataFile != "template.json") {
     if (line.contains("%instance.source%")) { line = processRich(line, data, "instance.source", "[%instance.source%](%instance.source%)") }
     if (line.contains("%instance.docker%")) { line = processRich(line, data, "instance.docker", "[%instance.docker%](%instance.docker%)") }
     if (line.contains("%ELIXIR.biotools%")) { line = processRich(line, data, "ELIXIR.biotools", "[https://bio.tools/%ELIXIR.biotools%](https://bio.tools/%ELIXIR.biotools%)") }
-    if (line.contains("%ELIXIR.tess%")) { line = processRich(line, data, "ELIXIR.tess", "[https://tess.elixir-europe.org/%ELIXIR.tess%](https://tess.elixir-europe.org/%ELIXIR.tess%)") }
+    if (line.contains("%ELIXIR.tess%")) { line = processRich(line, data, "ELIXIR.tess", "[https://tess.elixir-europe.org/search?q=%ELIXIR.tess%](https://tess.elixir-europe.org/search?q=%ELIXIR.tess%)") }
+    if (line.contains("%ELIXIR.tess.noExpand%")) { line = process(line, data, "ELIXIR.tess.noExpand") }
     outputFile << line + "\n"
   }
 }
