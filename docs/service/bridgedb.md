@@ -34,7 +34,7 @@ A framework to map identifiers between various biological databases and related 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
 function initTeSSWidgets() {
-    var query = '[https://tess.elixir-europe.org/search?q=bridgedb](https://tess.elixir-europe.org/search?q=bridgedb)';
+    var query = 'bridgedb';
     if (query.trim() != "") {
         TessWidget.Materials(document.getElementById('tess-widget-materials-list'),
             'SimpleList',
