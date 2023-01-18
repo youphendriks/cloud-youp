@@ -5,14 +5,14 @@
 BioModels is a repository of mathematical models of biological and biomedical systems.
 
 
-## VHP4Safety Service
+##  Service
 
-* Development cloud: [https://www.ebi.ac.uk/biomodels/](https://www.ebi.ac.uk/biomodels/)
+*  cloud: [https://www.ebi.ac.uk/biomodels/](https://www.ebi.ac.uk/biomodels/) []()
 * Login required: no
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact: 
+* Contact:  
 * API Type: 
 * Categories: -
 * Targeted users: -
@@ -28,6 +28,30 @@ BioModels is a repository of mathematical models of biological and biomedical sy
 * Docker: 
 * Bio.tools: 
 * TeSS: 
+
+<h3 id="tess-widget-materials-header"></h3>
+
+<div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
+<script>
+function initTeSSWidgets() {
+    var query = '';
+    if (query.trim() != "") {
+        TessWidget.Materials(document.getElementById('tess-widget-materials-list'),
+            'SimpleList',
+            {
+                opts: {
+                  enableSearch: false
+                },
+                params: {
+                    pageSize: 5,
+                    q: query
+                }
+            });
+        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+    }
+}
+</script>
+<script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
 
 ## Tool integration
 

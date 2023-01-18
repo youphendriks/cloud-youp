@@ -5,14 +5,14 @@
 A framework to map identifiers between various biological databases and related sources.
 
 <img width="300" align="right" alt="screenshot of the service" src="bridgedb.png">
-## VHP4Safety Service
+##  Service
 
-* Development cloud: [https://bridgedb.cloud.vhp4safety.nl/](https://bridgedb.cloud.vhp4safety.nl/)
+*  cloud: [https://bridgedb.cloud.vhp4safety.nl/](https://bridgedb.cloud.vhp4safety.nl/) []()
 * Login required: no
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact: 
+* Contact:  
 * API Type: REST
 * Categories: -
 * Targeted users: -
@@ -34,7 +34,7 @@ A framework to map identifiers between various biological databases and related 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
 function initTeSSWidgets() {
-    var query = 'bridgedb';
+    var query = '[https://tess.elixir-europe.org/search?q=bridgedb](https://tess.elixir-europe.org/search?q=bridgedb)';
     if (query.trim() != "") {
         TessWidget.Materials(document.getElementById('tess-widget-materials-list'),
             'SimpleList',

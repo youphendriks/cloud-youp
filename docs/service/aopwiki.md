@@ -5,14 +5,14 @@
 Graphical interface to an AOP-Wiki SPARQL endpoint.
 
 <img width="300" align="right" alt="screenshot of the service" src="aopwiki.png">
-## VHP4Safety Service
+##  Service
 
-* Development cloud: [https://aopwiki.cloud.vhp4safety.nl/](https://aopwiki.cloud.vhp4safety.nl/)
+*  cloud: [https://aopwiki.cloud.vhp4safety.nl/](https://aopwiki.cloud.vhp4safety.nl/) []()
 * Login required: No
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact: Marvin Martens
+* Contact: Marvin Martens 
 * API Type: 
 * Categories: -
 * Targeted users: -
@@ -28,6 +28,30 @@ Graphical interface to an AOP-Wiki SPARQL endpoint.
 * Docker: 
 * Bio.tools: 
 * TeSS: 
+
+<h3 id="tess-widget-materials-header"></h3>
+
+<div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
+<script>
+function initTeSSWidgets() {
+    var query = '';
+    if (query.trim() != "") {
+        TessWidget.Materials(document.getElementById('tess-widget-materials-list'),
+            'SimpleList',
+            {
+                opts: {
+                  enableSearch: false
+                },
+                params: {
+                    pageSize: 5,
+                    q: query
+                }
+            });
+        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+    }
+}
+</script>
+<script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
 
 ## Tool integration
 

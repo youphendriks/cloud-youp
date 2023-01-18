@@ -5,14 +5,14 @@
 A webservice the converts a SMILES into 2D depictions (SVG or PNG).
 
 <img width="300" align="right" alt="screenshot of the service" src="cdkdepict.png">
-## VHP4Safety Service
+##  Service
 
-* Development cloud: [https://cdkdepict.cloud.vhp4safety.nl/](https://cdkdepict.cloud.vhp4safety.nl/)
+*  cloud: [https://cdkdepict.cloud.vhp4safety.nl/](https://cdkdepict.cloud.vhp4safety.nl/) []()
 * Login required: no
 * Implementation status: 
 * TRL: TRL 8 - system complete and qualified
 * Type: -
-* Contact: Egon Willighagen
+* Contact: Egon Willighagen 
 * API Type: REST
 * Categories: -
 * Targeted users: -
@@ -28,6 +28,30 @@ A webservice the converts a SMILES into 2D depictions (SVG or PNG).
 * Docker: [https://hub.docker.com/r/simolecule/cdkdepict](https://hub.docker.com/r/simolecule/cdkdepict)
 * Bio.tools: [https://bio.tools/cdk_depict](https://bio.tools/cdk_depict)
 * TeSS: 
+
+<h3 id="tess-widget-materials-header"></h3>
+
+<div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
+<script>
+function initTeSSWidgets() {
+    var query = '';
+    if (query.trim() != "") {
+        TessWidget.Materials(document.getElementById('tess-widget-materials-list'),
+            'SimpleList',
+            {
+                opts: {
+                  enableSearch: false
+                },
+                params: {
+                    pageSize: 5,
+                    q: query
+                }
+            });
+        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+    }
+}
+</script>
+<script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
 
 ## Tool integration
 

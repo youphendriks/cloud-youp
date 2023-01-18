@@ -5,14 +5,14 @@
 Online service to extract chemical structures from PDFs and images.
 
 <img width="300" align="right" alt="screenshot of the service" src="decimer.png">
-## VHP4Safety Service
+##  Service
 
-* Development cloud: [https://decimer.ai/](https://decimer.ai/)
+*  cloud: [https://decimer.ai/](https://decimer.ai/) []()
 * Login required: No
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact: 
+* Contact:  
 * API Type: 
 * Categories: -
 * Targeted users: -
@@ -28,6 +28,30 @@ Online service to extract chemical structures from PDFs and images.
 * Docker: [https://github.com/OBrink/DECIMER_Web](https://github.com/OBrink/DECIMER_Web)
 * Bio.tools: 
 * TeSS: 
+
+<h3 id="tess-widget-materials-header"></h3>
+
+<div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
+<script>
+function initTeSSWidgets() {
+    var query = '';
+    if (query.trim() != "") {
+        TessWidget.Materials(document.getElementById('tess-widget-materials-list'),
+            'SimpleList',
+            {
+                opts: {
+                  enableSearch: false
+                },
+                params: {
+                    pageSize: 5,
+                    q: query
+                }
+            });
+        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+    }
+}
+</script>
+<script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
 
 ## Tool integration
 
