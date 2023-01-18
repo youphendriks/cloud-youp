@@ -29,6 +29,30 @@ A framework to map identifiers between various biological databases and related 
 * Bio.tools: [https://bio.tools/bridgedb](https://bio.tools/bridgedb)
 * TeSS: [https://tess.elixir-europe.org/search?q=bridgedb](https://tess.elixir-europe.org/search?q=bridgedb)
 
+<h3 id="tess-widget-materials-header"></h3>
+
+<div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
+<script>
+function initTeSSWidgets() {
+    var query = 'bridgedb';
+    if (query.trim() != "") {
+        TessWidget.Materials(document.getElementById('tess-widget-materials-list'),
+            'SimpleList',
+            {
+                opts: {
+                  enableSearch: false
+                },
+                params: {
+                    pageSize: 5,
+                    q: query
+                }
+            });
+        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+    }
+}
+</script>
+<script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
 ## Tool integration
 
 - [ ] Utilises the VHP4Safety APIs to ensure that each service is accessible to our proposed interoperability layer.
