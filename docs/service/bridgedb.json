@@ -20,6 +20,6 @@
   },
   "ELIXIR": {
     "biotools": "bridgedb",
-    "tess": "search?q=bridgedb"
+    "tess": "bridgedb"
   }
 }
