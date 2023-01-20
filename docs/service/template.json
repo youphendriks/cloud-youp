@@ -25,7 +25,11 @@
   },
   "access": {
     "API": "",
-    "login": ""
+    "login": "",
+    "packages": {
+      "R": "",
+      "Python": ""
+    }
   },
   "ELIXIR": {
     "biotools": "",

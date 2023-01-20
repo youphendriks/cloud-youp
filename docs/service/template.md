@@ -13,7 +13,7 @@
 * TRL: %instance.TRL%
 * Type: -
 * Contact: %provider.contact.name% %provider.contact.email%
-* API Type: %access.API%
+* API Type: %access.API%%access.packages.R%%access.packages.Python%
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -
