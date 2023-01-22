@@ -31,6 +31,10 @@
       "Python": ""
     }
   },
+  "demo": {
+    "title": "",
+    "url": ""
+  },
   "ELIXIR": {
     "biotools": "",
     "tess": ""
