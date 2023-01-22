@@ -14,6 +14,7 @@ Service to generate online virtual human population.
 * Type: -
 * Contact:  infoline@hse.gov.uk
 * API Type: [SOAP](http://xnet.hsl.gov.uk/Popgen/service.aspx)
+* Demo: [%demo.title%](%demo.url%)
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -

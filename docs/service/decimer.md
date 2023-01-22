@@ -14,6 +14,7 @@ Online service to extract chemical structures from PDFs and images.
 * Type: -
 * Contact:  
 * API Type: 
+* Demo: [%demo.title%](%demo.url%)
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -

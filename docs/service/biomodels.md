@@ -14,27 +14,28 @@ BioModels is a repository of mathematical models of biological and biomedical sy
 * Type: -
 * Contact:  
 * API Type: 
+* Demo: [%demo.title%](%demo.url%)
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -
 
 ## Tool specifications
 
-* Provided by: EMBL-EBI ([https://www.ebi.ac.uk/biomodels/](https://www.ebi.ac.uk/biomodels/))
+* Provided by: EMBL-EBI ([https://www.ebi.ac.uk/](https://www.ebi.ac.uk/))
 * Citation: [https://doi.org/10.1093/nar/gkz1055](https://doi.org/10.1093/nar/gkz1055)
 * Version: 
 * License: 
 * Source Code: 
 * Docker: 
-* Bio.tools: 
-* TeSS: 
+* Bio.tools: [https://bio.tools/biomodels](https://bio.tools/biomodels)
+* TeSS: [https://tess.elixir-europe.org/search?q=BioModels](https://tess.elixir-europe.org/search?q=BioModels)
 
 <h3 id="tess-widget-materials-header"></h3>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
 function initTeSSWidgets() {
-    var query = '';
+    var query = 'BioModels';
     if (query.trim() != "") {
         TessWidget.Materials(document.getElementById('tess-widget-materials-list'),
             'SimpleList',

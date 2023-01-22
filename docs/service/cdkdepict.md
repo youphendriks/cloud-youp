@@ -14,6 +14,7 @@ A webservice the converts a SMILES into 2D depictions (SVG or PNG).
 * Type: -
 * Contact: Egon Willighagen 
 * API Type: REST
+* Demo: [%demo.title%](%demo.url%)
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -
