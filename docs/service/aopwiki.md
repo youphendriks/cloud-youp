@@ -4,7 +4,7 @@
 
 Graphical interface to an AOP-Wiki SPARQL endpoint.
 
-<img width="300" align="right" alt="screenshot of the service" src="aopwiki.png">
+![screenshot of %service%](https://github.com/VHP4Safety/cloud/blob/main/docs/service/aopwiki.png "Click on the image to go to the service")
 ##  Service
 
 *  cloud: [https://aopwiki.cloud.vhp4safety.nl/](https://aopwiki.cloud.vhp4safety.nl/) []()

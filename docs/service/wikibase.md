@@ -4,7 +4,7 @@
 
 A Wikibase instance to hold information about compounds.
 
-<img width="300" align="right" alt="screenshot of the service" src="VHP4Safety_ChemicalCompounds.png">
+![screenshot of %service%](https://github.com/VHP4Safety/cloud/blob/main/docs/service/VHP4Safety_ChemicalCompounds.png "Click on the image to go to the service")
 ## VHP4Safety Service
 
 * Development cloud: [https://compoundcloud.wikibase.cloud/](https://compoundcloud.wikibase.cloud/) []()

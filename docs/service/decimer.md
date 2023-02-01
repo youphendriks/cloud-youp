@@ -4,7 +4,7 @@
 
 Online service to extract chemical structures from PDFs and images.
 
-<img width="300" align="right" alt="screenshot of the service" src="decimer.png">
+![screenshot of %service%](https://github.com/VHP4Safety/cloud/blob/main/docs/service/decimer.png "Click on the image to go to the service")
 ##  Service
 
 *  cloud: [https://decimer.ai/](https://decimer.ai/) []()

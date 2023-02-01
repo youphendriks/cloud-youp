@@ -4,7 +4,7 @@
 
 An R-Shiny-based implementation of weighted gene co-expression network analysis (WGCNA) obtained from the Primary Human Hepatocytes (PHH) TG-GATEs dataset.
 
-<img width="300" align="right" alt="screenshot of the service" src="txg_mapr.png">
+![screenshot of %service%](https://github.com/VHP4Safety/cloud/blob/main/docs/service/txg_mapr.png "Click on the image to go to the service")
 ## VHP4Safety Service
 
 *  cloud: [https://txg-mapr.eu/](https://txg-mapr.eu/) []()
