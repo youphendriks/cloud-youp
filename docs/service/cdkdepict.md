@@ -4,7 +4,7 @@
 
 A webservice the converts a SMILES into 2D depictions (SVG or PNG).
 
-![screenshot of %service%](https://github.com/VHP4Safety/cloud/blob/main/docs/service/cdkdepict.png "Click on the image to go to the service")
+![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/cdkdepict.png "Click on the image to go to the service")
 ##  Service
 
 *  cloud: [https://cdkdepict.cloud.vhp4safety.nl/](https://cdkdepict.cloud.vhp4safety.nl/) []()

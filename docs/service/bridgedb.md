@@ -4,7 +4,7 @@
 
 A framework to map identifiers between various biological databases and related sources.
 
-![screenshot of %service%](https://github.com/VHP4Safety/cloud/blob/main/docs/service/bridgedb.png "Click on the image to go to the service")
+![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/bridgedb.png "Click on the image to go to the service")
 ##  Service
 
 *  cloud: [https://bridgedb.cloud.vhp4safety.nl/](https://bridgedb.cloud.vhp4safety.nl/) []()
