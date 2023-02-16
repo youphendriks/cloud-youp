@@ -1,0 +1,10 @@
+{
+  "id": "copasi",
+  "service": "COPASI",
+  "description": "Open-source software application for creating and solving mathematical models of biological processes such as metabolic networks, cell-signaling pathways, regulatory networks, infectious diseases, and many others.",
+  "url": "http://copasi.org/",
+  "doi": "10.1093/bioinformatics/btl485",
+  "ELIXIR": {
+    "biotools": "copasi"
+  }
+}
