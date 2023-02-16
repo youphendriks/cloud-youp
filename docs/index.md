@@ -1,6 +1,6 @@
 <img width="300" align="right"
      alt="VHP4Safety logo" 
-     src="https://vhp4safety.nl/wp-content/uploads/sites/725/2021/05/VHP-LOGO-100mm-RGB.png">
+     src="VHP-LOGO-100mm-RGB.png">
 # VHP4Safety Cloud Services
 
 VHP4Safety needs a cloud with a high diversity of services to support their case studies.
