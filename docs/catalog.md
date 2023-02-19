@@ -20,7 +20,6 @@ Graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki
 
 -------------------------------------------------------------------------------
 
-![BioModels logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/null "Click on the image to go to the service")
 
 ## BioModels
 
@@ -47,7 +46,6 @@ A webservice the converts a SMILES into 2D depictions (SVG or PNG). [[more info]
 
 -------------------------------------------------------------------------------
 
-![COPASI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/null "Click on the image to go to the service")
 
 ## COPASI
 
@@ -65,7 +63,6 @@ Online service to extract chemical structures from PDFs and images. [[more info]
 
 -------------------------------------------------------------------------------
 
-![PopGen logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/ "Click on the image to go to the service")
 
 ## PopGen
 
@@ -74,7 +71,6 @@ Service to generate online virtual human population. [[more info](service/popgen
 
 -------------------------------------------------------------------------------
 
-![SOM Prediction logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/null "Click on the image to go to the service")
 
 ## SOM Prediction
 
@@ -83,7 +79,6 @@ A webservice for protein-structure and reactivity based (P450) site-of-metabolis
 
 -------------------------------------------------------------------------------
 
-![SysRev logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/null "Click on the image to go to the service")
 
 ## SysRev
 
