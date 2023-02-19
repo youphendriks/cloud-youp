@@ -9,11 +9,21 @@ and users can [request additional services](https://github.com/VHP4Safety/cloud/
 
 -------------------------------------------------------------------------------
 
-## AOP-Wiki Snorql UI
-
 ![AOP-Wiki Snorql UI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwiki.png "Click on the image to go to the service")
 
-A graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki.md)]
+## AOP-Wiki Snorql UI
+
+Graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki.md)]
+
+
+-------------------------------------------------------------------------------
+
+![BioModels logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/null "Click on the image to go to the service")
+
+## BioModels
+
+BioModels is a repository of mathematical models of biological and biomedical systems. [[more info](service/biomodels.md)]
+
 
 -------------------------------------------------------------------------------
 
@@ -23,39 +33,60 @@ A graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwi
 
 A framework to map identifiers between various biological databases and related sources. [[more info](service/bridgedb.md)]
 
+
 -------------------------------------------------------------------------------
 
 ![CDK Depict logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/cdkdepict.png "Click on the image to go to the service")
 
 ## CDK Depict
 
-A webservice that converts a SMILES into 2D depictions (SVG or PNG). [[more info](service/cdkdepict.md)]
+A webservice the converts a SMILES into 2D depictions (SVG or PNG). [[more info](service/cdkdepict.md)]
+
 
 -------------------------------------------------------------------------------
 
-![CDK Depict logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/decimer.png "Click on the image to go to the service")
+![COPASI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/null "Click on the image to go to the service")
+
+## COPASI
+
+Open-source software application for creating and solving mathematical models of biological processes such as metabolic networks, cell-signaling pathways, regulatory networks, infectious diseases, and many others. [[more info](service/copasi.md)]
+
+
+-------------------------------------------------------------------------------
+
+![DECIMER logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/decimer.png "Click on the image to go to the service")
 
 ## DECIMER
 
-A tool to extract chemicals from 2D depictions in PDFs and images. [[more info](service/decimer.md)]
+Online service to extract chemical structures from PDFs and images. [[more info](service/decimer.md)]
+
 
 -------------------------------------------------------------------------------
+
+![PopGen logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/ "Click on the image to go to the service")
 
 ## PopGen
 
-A service to generate online virtual human population. [[more info](service/popgen.md)]
+Service to generate online virtual human population. [[more info](service/popgen.md)]
+
 
 -------------------------------------------------------------------------------
+
+![SOM Prediction logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/null "Click on the image to go to the service")
 
 ## SOM Prediction
 
 A webservice for protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more info](service/sombie.md)]
 
+
 -------------------------------------------------------------------------------
+
+![SysRev logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/null "Click on the image to go to the service")
 
 ## SysRev
 
-A service to support literature research. [[more info](service/sysrev.md)]
+Service to support literature research. [[more info](service/sysrev.md)]
+
 
 -------------------------------------------------------------------------------
 
@@ -65,22 +96,27 @@ A service to support literature research. [[more info](service/sysrev.md)]
 
 An R-Shiny-based implementation of weighted gene co-expression network analysis (WGCNA) obtained from the Primary Human Hepatocytes (PHH) TG-GATEs dataset. [[more info](service/txg_mapr.md)]
 
+
 -------------------------------------------------------------------------------
+
+![VHP4Safety Wikibase logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/VHP4Safety_ChemicalCompounds.png "Click on the image to go to the service")
 
 ## VHP4Safety Wikibase
 
 A Wikibase instance to hold information about compounds. [[more info](service/wikibase.md)]
 
+
 -------------------------------------------------------------------------------
 
-![WikiPathways - AOP logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/wikipathways_aop.png "Click on the image to go to the service")
+![WikiPathways - AOP Portal logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/wikipathways_aop.png "Click on the image to go to the service")
 
 ## WikiPathways - AOP Portal
 
 This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs. [[more info](service/wikipathways_aop.md)]
 
--------------------------------------------------------------------------------
+
 
 ### Funding
 
-VHP4Safety – the Virtual Human Platform for safety assessment project [NWA 1292.19.272](https://www.nwo.nl/projecten/nwa129219272) is part of the NWA research program ‘Research along Routes by Consortia (ORC)’, which is funded by the Netherlands Organization for Scientific Research (NWO). The project started on June 1, 2021 with a budget of over 10 million Euros and will last for the duration of 5 years. 
+VHP4Safety – the Virtual Human Platform for safety assessment project [NWA 1292.19.272](https://www.nwo.nl/projecten/nwa129219272) is part of the NWA research program ‘Research along Routes by Consortia (ORC)’, which is funded by the Netherlands Organization for Scientific Research
+(NWO). The project started on June 1, 2021 with a budget of over 10 million Euros and will last for the duration of 5 years.

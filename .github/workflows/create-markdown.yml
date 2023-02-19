@@ -18,8 +18,11 @@ jobs:
       - name: Install groovy
         run: sudo apt install groovy
 
-      - name: Generate website
-        run: cd docs/service ; groovy createMarkdown.groovy *.json
+      - name: Generate catalog
+        run: cd docs ; groovy createCatalog.groovy
+
+      - name: Generate service pages
+        run: cd service ; groovy createMarkdown.groovy *.json
 
       - name: Commit report
         run: |
