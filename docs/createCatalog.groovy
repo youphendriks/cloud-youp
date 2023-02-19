@@ -32,6 +32,13 @@ list = list.sort()
 list.each { file ->
   fileContents = file.text
   def data = new JsonSlurper().parseText(fileContents)
+  print "[${data.service}}(#${data.id}) "
+}
+println "\n"
+
+list.each { file ->
+  fileContents = file.text
+  def data = new JsonSlurper().parseText(fileContents)
   logo = ""
   if (data.screenshot) logo = "![${data.service} logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/${data.screenshot} \"Click on the image to go to the service\")\n"
   println """-------------------------------------------------------------------------------
