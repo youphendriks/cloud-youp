@@ -32,7 +32,7 @@ list = list.sort()
 list.each { file ->
   fileContents = file.text
   def data = new JsonSlurper().parseText(fileContents)
-  print "[${data.service}}(#${data.id}) "
+  print "[${data.service}](#${data.id}) "
 }
 println "\n"
 
