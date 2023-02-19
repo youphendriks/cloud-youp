@@ -14,7 +14,7 @@ A Wikibase instance to hold information about compounds.
 * Type: -
 * Contact:  
 * API Type: SPARQL
-* Demo: [%demo.title%](%demo.url%)
+* Demo: []()
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -

@@ -14,7 +14,7 @@ An R-Shiny-based implementation of weighted gene co-expression network analysis 
 * Type: -
 * Contact: Steven J. Kunnen 
 * API Type: 
-* Demo: [%demo.title%](%demo.url%)
+* Demo: []()
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -

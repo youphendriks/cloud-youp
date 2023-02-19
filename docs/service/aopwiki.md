@@ -14,7 +14,7 @@ Graphical interface to an AOP-Wiki SPARQL endpoint.
 * Type: -
 * Contact: Marvin Martens 
 * API Type: 
-* Demo: [%demo.title%](%demo.url%)
+* Demo: []()
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -

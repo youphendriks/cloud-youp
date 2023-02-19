@@ -14,7 +14,7 @@ Open-source software application for creating and solving mathematical models of
 * Type: -
 * Contact:  
 * API Type: 
-* Demo: [%demo.title%](%demo.url%)
+* Demo: []()
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -

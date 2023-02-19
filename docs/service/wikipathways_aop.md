@@ -14,7 +14,7 @@ This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the mole
 * Type: -
 * Contact:  
 * API Type: SPARQL
-* Demo: [%demo.title%](%demo.url%)
+* Demo: []()
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -

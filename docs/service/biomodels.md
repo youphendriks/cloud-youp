@@ -14,7 +14,7 @@ BioModels is a repository of mathematical models of biological and biomedical sy
 * Type: -
 * Contact:  
 * API Type: 
-* Demo: [%demo.title%](%demo.url%)
+* Demo: []()
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -

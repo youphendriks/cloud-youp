@@ -14,7 +14,7 @@ Service to support literature research.
 * Type: -
 * Contact:  
 * API Type: REST, [R package](https://r.sysrev.com/), [Python](https://github.com/sysrev/PySysrev)
-* Demo: [%demo.title%](%demo.url%)
+* Demo: []()
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -

@@ -14,7 +14,7 @@ A framework to map identifiers between various biological databases and related 
 * Type: -
 * Contact:  
 * API Type: REST
-* Demo: [%demo.title%](%demo.url%)
+* Demo: []()
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -

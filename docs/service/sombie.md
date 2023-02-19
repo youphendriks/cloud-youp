@@ -14,7 +14,7 @@ A webservice for protein-structure and reactivity based (P450) site-of-metabolis
 * Type: -
 * Contact: David Poole 
 * API Type: REST
-* Demo: [%demo.title%](%demo.url%)
+* Demo: []()
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -
