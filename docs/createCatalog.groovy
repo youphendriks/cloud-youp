@@ -29,12 +29,12 @@ dir.eachFileRecurse (FileType.FILES) { file ->
 
 list = list.sort()
 
-list.each { file ->
+/* list.each { file ->
   fileContents = file.text
   def data = new JsonSlurper().parseText(fileContents)
   print "[${data.service}](#${data.id}) "
 }
-println "\n"
+println "\n" */
 
 list.each { file ->
   fileContents = file.text

@@ -9,8 +9,6 @@ Below you find an overview of services available in the context of the VHP4Safet
 [Additional services have been suggested](https://github.com/VHP4Safety/cloud/labels/service)
 and users can [request additional services](https://github.com/VHP4Safety/cloud/issues/new/choose).
 
-[AOP-Wiki Snorql UI](#aopwiki) [BioModels](#biomodels) [BridgeDb](#bridgedb) [CDK Depict](#cdkdepict) [COPASI](#copasi) [DECIMER](#decimer) [PopGen](#popgen) [SOM Prediction](#sombie) [SysRev](#sysrev) [TXG-MAPr](#txg_mapr) [VHP4Safety Wikibase](#wikibase) [WikiPathways - AOP Portal](#wikipathways_aop) 
-
 -------------------------------------------------------------------------------
 
 ![AOP-Wiki Snorql UI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwiki.png "Click on the image to go to the service")
