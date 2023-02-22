@@ -22,7 +22,7 @@ jobs:
         run: cd docs ; groovy createCatalog.groovy
 
       - name: Generate service pages
-        run: cd service ; groovy createMarkdown.groovy *.json
+        run: cd docs/service ; groovy createMarkdown.groovy *.json
 
       - name: Commit report
         run: |
