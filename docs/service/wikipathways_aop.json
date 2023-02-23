@@ -7,7 +7,7 @@
   "doi": "10.3389/fgene.2018.00661",
   "instance": {
     "type": "VHP4Safety",
-    "vhp-platform": "",
+    "vhp-platform": "External",
     "url": "",
     "license": "[CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)",
     "version": "",

@@ -7,7 +7,7 @@
   "doi": "10.1007/s00204-021-03141-w",
   "instance": {
     "type": "VHP4Safety",
-    "vhp-platform": "",
+    "vhp-platform": "External",
     "url": "",
     "license": "Proprietary",
     "version": "",

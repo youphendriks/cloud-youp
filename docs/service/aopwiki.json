@@ -4,6 +4,11 @@
   "description": "Graphical interface to an AOP-Wiki SPARQL endpoint.",
   "screenshot": "aopwiki.png",
   "url": "https://aopwiki.cloud.vhp4safety.nl/",
+  "instance": {
+    "type": "VHP4Safety",
+    "vhp-platform": "Development",
+    "url": "https://aopwiki.cloud.vhp4safety.nl/"
+  },
   "provider": {
     "contact": {
       "name": "Marvin Martens"
