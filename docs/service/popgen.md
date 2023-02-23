@@ -5,7 +5,7 @@
 Service to generate online virtual human population.
 
 
-## External Service
+## VHP4Safety Selection Service
 
 *  cloud: [http://xnet.hsl.gov.uk/Popgen/](http://xnet.hsl.gov.uk/Popgen/) []()
 * Login required: No

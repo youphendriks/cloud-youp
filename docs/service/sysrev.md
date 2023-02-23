@@ -5,7 +5,7 @@
 Service to support literature research.
 
 
-## External Service
+## VHP4Safety Selection Service
 
 *  cloud: [https://sysrev.com/](https://sysrev.com/) []()
 * Login required: Yes

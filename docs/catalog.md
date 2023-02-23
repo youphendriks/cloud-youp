@@ -41,7 +41,7 @@ A framework to map identifiers between various biological databases and related 
 
 ## CDK Depict
 
-A webservice the converts a SMILES into 2D depictions (SVG or PNG). [[more info](service/cdkdepict.md)]
+A webservice that converts a SMILES into 2D depictions (SVG or PNG). [[more info](service/cdkdepict.md)]
 
 
 -------------------------------------------------------------------------------

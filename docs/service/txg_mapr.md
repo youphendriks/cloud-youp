@@ -7,7 +7,7 @@ An R-Shiny-based implementation of weighted gene co-expression network analysis 
 ![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/txg_mapr.png "Click on the image to go to the service")
 ## VHP4Safety Service
 
-*  cloud: [https://txg-mapr.eu/](https://txg-mapr.eu/) []()
+* External cloud: [https://txg-mapr.eu/](https://txg-mapr.eu/) []()
 * Login required: Yes
 * Implementation status: 
 * TRL: 
