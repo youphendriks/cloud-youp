@@ -19,7 +19,7 @@ jobs:
         run: sudo apt install groovy
 
       - name: Generate catalog
-        run: cd docs ; groovy createCatalog.groovy
+        run: cd docs ; groovy createCatalog.groovy > catalog.md
 
       - name: Generate service pages
         run: cd docs/service ; groovy createMarkdown.groovy *.json
