@@ -64,6 +64,14 @@ Online service to extract chemical structures from PDFs and images. [[more info]
 -------------------------------------------------------------------------------
 
 
+## Flame
+
+An open source framework for model development, hosting, and usage in production environments. [[more info](service/flame.md)]
+
+
+-------------------------------------------------------------------------------
+
+
 ## PopGen
 
 Service to generate online virtual human population. [[more info](service/popgen.md)]
