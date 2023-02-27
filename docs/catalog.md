@@ -88,6 +88,14 @@ An open source framework for model development, hosting, and usage in production
 -------------------------------------------------------------------------------
 
 
+## Joint Research Centre Data Catalogue
+
+A catalogue of metadata records about datasets. [[more info](service/jrc_data_catalogue.md)]
+
+
+-------------------------------------------------------------------------------
+
+
 ## PopGen
 
 Service to generate online virtual human population. [[more info](service/popgen.md)]
