@@ -47,6 +47,14 @@ A webservice that converts a SMILES into 2D depictions (SVG or PNG). [[more info
 -------------------------------------------------------------------------------
 
 
+## CellDesigner
+
+A modeling tool of biochemical networks. [[more info](service/celldesigner.md)]
+
+
+-------------------------------------------------------------------------------
+
+
 ## COPASI
 
 Open-source software application for creating and solving mathematical models of biological processes such as metabolic networks, cell-signaling pathways, regulatory networks, infectious diseases, and many others. [[more info](service/copasi.md)]
