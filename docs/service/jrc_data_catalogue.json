@@ -4,13 +4,11 @@
   "description": "A catalogue of metadata records about datasets.",
   "url": "https://data.jrc.ec.europa.eu/",
   "doi": "10.3030/681002",
-  "instance": {
-    "type": "[REST API](https://data.jrc.ec.europa.eu/docs/index.html)",
-  },
   "provider": {
-    "contact": {
-      "name": "European Commission",
-      "email": "https://commission.europa.eu/about-european-commission/contact_en"
-    },
-  }
+    "url": "https://commission.europa.eu/about-european-commission/contact_en",
+    "name": "European Commission"
+  },
+  "access": {
+    "API": "https://data.jrc.ec.europa.eu/docs/index.html",
+  },
 }
