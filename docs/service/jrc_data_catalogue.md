@@ -5,15 +5,15 @@
 A catalogue of metadata records about datasets.
 
 
-## [REST API](https://data.jrc.ec.europa.eu/docs/index.html) Service
+##  Service
 
 *  cloud: [https://data.jrc.ec.europa.eu/](https://data.jrc.ec.europa.eu/) []()
 * Login required: 
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact: European Commission https://commission.europa.eu/about-european-commission/contact_en
-* API Type: 
+* Contact:  
+* API Type: https://data.jrc.ec.europa.eu/docs/index.html
 * Demo: []()
 * Categories: -
 * Targeted users: -
@@ -21,7 +21,7 @@ A catalogue of metadata records about datasets.
 
 ## Tool specifications
 
-* Provided by:  
+* Provided by: European Commission ([https://commission.europa.eu/about-european-commission/contact_en](https://commission.europa.eu/about-european-commission/contact_en))
 * Citation: [https://doi.org/10.3030/681002](https://doi.org/10.3030/681002)
 * Version: 
 * License: 
