@@ -5,11 +5,11 @@ or the [online website](https://vhp4safety.github.io/cloud/).
 
 ## Adding new services
 
-* copy the `docs/services/cdkdepict.md` file and adapt the content to the new service
-  * update the content 
-  * update [the Bioschemas metadata](https://bioschemas.org/profiles/ComputationalTool/1.0-RELEASE)
-* add a new link to the `sitemap.xml` file
-* add an item in `docs/index.md` (if included in our clooud)
+* copy the `docs/services/template.json` file and adapt the content to the new service
+* update the content and safe the file under `docs/services/uniqueID.json`
+
+The GitHub website will take "action" and use the `JSON` to create a Markdown file, update
+the catalog pages, as well as the `sitemap.xml` accordingly.
 
 After the page is online:
 
