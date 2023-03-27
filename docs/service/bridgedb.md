@@ -12,7 +12,7 @@ A framework to map identifiers between various biological databases and related 
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact:  
+* Contact: Egon Willighagen 
 * API Type: REST
 * Demo: []()
 * Categories: -
