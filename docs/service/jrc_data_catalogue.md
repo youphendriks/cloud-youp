@@ -12,7 +12,7 @@ A catalogue of metadata records about datasets.
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact:  
+* Contact:  jrc-data-support@ec.europa.eu
 * API Type: https://data.jrc.ec.europa.eu/docs/index.html
 * Demo: []()
 * Categories: -

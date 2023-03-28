@@ -12,7 +12,7 @@ Graphical interface to an AOP-Wiki SPARQL endpoint.
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact: Marvin Martens 
+* Contact: Marvin Martens marvin.martens@maastrichtuniversity.nl
 * API Type: 
 * Demo: []()
 * Categories: -

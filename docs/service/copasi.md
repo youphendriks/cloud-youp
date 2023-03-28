@@ -12,7 +12,7 @@ Open-source software application for creating and solving mathematical models of
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact:  
+* Contact: The COPASI Project http://copasi.org/About/Team/
 * API Type: 
 * Demo: []()
 * Categories: -

@@ -12,7 +12,7 @@ This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the mole
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact:  
+* Contact: Marvin Martens marvin.martens@maastrichtuniversity.nl
 * API Type: SPARQL
 * Demo: []()
 * Categories: -
@@ -21,7 +21,7 @@ This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the mole
 
 ## Tool specifications
 
-* Provided by: UM 
+* Provided by: Maastricht University 
 * Citation: [https://doi.org/10.3389/fgene.2018.00661](https://doi.org/10.3389/fgene.2018.00661)
 * Version: 
 * License: [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)

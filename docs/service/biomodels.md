@@ -12,7 +12,7 @@ BioModels is a repository of mathematical models of biological and biomedical sy
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact:  
+* Contact:  biomodels-net-support@lists.sf.net
 * API Type: 
 * Demo: []()
 * Categories: -

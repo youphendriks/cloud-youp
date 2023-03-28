@@ -8,12 +8,12 @@ Service to support literature research.
 ## VHP4Safety Selection Service
 
 *  cloud: [https://sysrev.com/](https://sysrev.com/) []()
-* Login required: Yes
+* Login required: 
 * Implementation status: 
 * TRL: 
 * Type: -
 * Contact:  
-* API Type: REST, [R package](https://r.sysrev.com/), [Python](https://github.com/sysrev/PySysrev)
+* API Type: 
 * Demo: []()
 * Categories: -
 * Targeted users: -
@@ -27,7 +27,7 @@ Service to support literature research.
 * License: 
 * Source Code: 
 * Docker: 
-* Bio.tools: [https://bio.tools/sysrev](https://bio.tools/sysrev)
+* Bio.tools: 
 * TeSS: 
 
 <h3 id="tess-widget-materials-header"></h3>

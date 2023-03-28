@@ -12,7 +12,7 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact:  
+* Contact:  https://www.epa.gov/aboutepa/forms/contact-epa
 * API Type: 
 * Demo: []()
 * Categories: -

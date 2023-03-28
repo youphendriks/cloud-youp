@@ -12,7 +12,7 @@ A webservice for protein-structure and reactivity based (P450) site-of-metabolis
 * Implementation status: 
 * TRL: Integrated application
 * Type: -
-* Contact: David Poole 
+* Contact: David Poole d.a.poole@vu.nl
 * API Type: REST
 * Demo: []()
 * Categories: -

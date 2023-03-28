@@ -12,7 +12,7 @@ Online service to extract chemical structures from PDFs and images.
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact:  
+* Contact: Kohulan Rajan kohulan.rajan@uni-jena.de
 * API Type: 
 * Demo: []()
 * Categories: -
@@ -21,7 +21,7 @@ Online service to extract chemical structures from PDFs and images.
 
 ## Tool specifications
 
-* Provided by: University of Jena 
+* Provided by: Steinbeck Group at the Friedrich Schiller University Jena ([https://cheminf.uni-jena.de/research/deep-learning/](https://cheminf.uni-jena.de/research/deep-learning/))
 * Citation: [https://doi.org/10.1186/s13321-021-00538-8](https://doi.org/10.1186/s13321-021-00538-8)
 * Version: Latest
 * License: [MIT license](https://github.com/Kohulan/DECIMER-Image_Transformer/blob/master/LICENSE)
