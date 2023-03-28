@@ -8,6 +8,7 @@
     "type": "VHP4Safety Selection"
   },
   "provider": {
+    "contact": {
       "name": "Insilica.co",
       "email": "info@insilica.co"
     },
