@@ -12,7 +12,7 @@ A Wikibase instance to hold information about compounds.
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact:  
+* Contact: Egon Willighagen egon.willighagen@maastrichtuniversity.nl
 * API Type: SPARQL
 * Demo: []()
 * Categories: -

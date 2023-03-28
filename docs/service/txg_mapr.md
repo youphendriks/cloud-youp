@@ -12,7 +12,7 @@ An R-Shiny-based implementation of weighted gene co-expression network analysis 
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact: Steven J. Kunnen 
+* Contact: Steven J. Kunnen s.j.kunnen@lacdr.leidenuniv.nl
 * API Type: 
 * Demo: []()
 * Categories: -

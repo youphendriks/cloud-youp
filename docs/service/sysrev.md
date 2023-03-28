@@ -21,7 +21,7 @@ Service to support literature research.
 
 ## Tool specifications
 
-* Provided by:  
+* Provided by: Insilica.co 
 * Citation: [https://doi.org/10.3389/frai.2021.685298](https://doi.org/10.3389/frai.2021.685298)
 * Version: 
 * License: 
