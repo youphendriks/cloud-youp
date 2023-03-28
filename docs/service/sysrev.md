@@ -8,12 +8,12 @@ Service to support literature research.
 ## VHP4Safety Selection Service
 
 *  cloud: [https://sysrev.com/](https://sysrev.com/) []()
-* Login required: 
+* Login required: Yes
 * Implementation status: 
 * TRL: 
 * Type: -
-* Contact:  
-* API Type: 
+* Contact: Insilica.co info@insilica.co
+* API Type: REST, [R package](https://r.sysrev.com/), [Python](https://github.com/sysrev/PySysrev)
 * Demo: []()
 * Categories: -
 * Targeted users: -
@@ -21,13 +21,13 @@ Service to support literature research.
 
 ## Tool specifications
 
-* Provided by: Insilica.co 
+* Provided by:  
 * Citation: [https://doi.org/10.3389/frai.2021.685298](https://doi.org/10.3389/frai.2021.685298)
 * Version: 
 * License: 
 * Source Code: 
 * Docker: 
-* Bio.tools: 
+* Bio.tools: [https://bio.tools/sysrev](https://bio.tools/sysrev)
 * TeSS: 
 
 <h3 id="tess-widget-materials-header"></h3>
