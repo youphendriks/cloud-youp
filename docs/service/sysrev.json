@@ -7,6 +7,10 @@
   "instance": {
     "type": "VHP4Safety Selection"
   },
+  "provider": {
+      "email": "info@insilica.co"
+    },
+  },
   "access": {
     "API": "REST",
     "login": "Yes",

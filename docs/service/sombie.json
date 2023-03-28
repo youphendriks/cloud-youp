@@ -12,7 +12,8 @@
   },
   "provider": {
     "contact": {
-      "name": "David Poole"
+      "name": "David Poole",
+      "email": "d.a.poole@vu.nl"
     }
   },
   "access": {

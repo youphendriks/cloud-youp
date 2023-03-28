@@ -11,7 +11,8 @@
   },
   "provider": {
     "contact": {
-      "name": "Marvin Martens"
+      "name": "Marvin Martens",
+      "email": "marvin.martens@maastrichtuniversity.nl"
     },
     "name": "BiGCaT, Maastricht University"
   },

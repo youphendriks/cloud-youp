@@ -17,11 +17,11 @@
   },
   "provider": {
     "contact": {
-      "name": "",
-      "email": ""
+      "name": "Marvin Martens",
+      "email": "marvin.martens@maastrichtuniversity.nl"
     },
     "url": "",
-    "name": "UM"
+    "name": "Maastricht University"
   },
   "access": {
     "API": "SPARQL",

@@ -14,10 +14,11 @@
   },
   "provider": {
     "contact": {
-      "name": ""
+      "name": "Kohulan Rajan",
+      "email": "kohulan.rajan@uni-jena.de",
     },
-    "url": "",
-    "name": "University of Jena"
+    "url": "https://cheminf.uni-jena.de/research/deep-learning/",
+    "name": "Steinbeck Group at the Friedrich Schiller University Jena"
   },
   "access": {
     "API": "",
