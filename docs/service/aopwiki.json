@@ -21,9 +21,6 @@
     "login": "No"
   },
   "ELIXIR": {
-    // The link to the source on bio.tools.
-    "biotools": "aop-wiki_rdf",
-    // The link to the source on TeSS.
-    "tess": ""
+    "biotools": "aop-wiki_rdf"
   }
 }
