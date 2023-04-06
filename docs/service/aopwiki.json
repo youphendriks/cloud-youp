@@ -1,12 +1,10 @@
 {
   "id": "aopwiki",
   "service": "AOP-Wiki Snorql UI",
-  "type": "SPARQL endpoint",
   "description": "Graphical interface to an AOP-Wiki SPARQL endpoint.",
   "screenshot": "aopwiki.png",
   "url": "https://aopwiki.cloud.vhp4safety.nl/",
   "doi": "10.1089/aivt.2021.0010",
-  "bio.tools": "aop-wiki_rdf",
   "instance": {
     "type": "VHP4Safety",
     "vhp-platform": "Development",
@@ -21,5 +19,11 @@
   },
   "access": {
     "login": "No"
+  },
+  "ELIXIR": {
+    // The link to the source on bio.tools.
+    "biotools": "aop-wiki_rdf",
+    // The link to the source on TeSS.
+    "tess": ""
   }
 }
