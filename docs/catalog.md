@@ -11,7 +11,7 @@ and users can [request additional services](https://github.com/VHP4Safety/cloud/
 
 -------------------------------------------------------------------------------
 
-![AOP-Wiki Snorql UI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/AOP-Wiki RDF logo square large.png "Click on the image to go to the service")
+![AOP-Wiki Snorql UI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwiki.png "Click on the image to go to the service")
 
 ## AOP-Wiki Snorql UI
 

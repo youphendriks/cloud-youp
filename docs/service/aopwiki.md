@@ -4,7 +4,7 @@
 
 Graphical interface to an AOP-Wiki SPARQL endpoint.
 
-![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/AOP-Wiki RDF logo square large.png "Click on the image to go to the service")
+![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwiki.png "Click on the image to go to the service")
 ## VHP4Safety Service
 
 * Development cloud: [https://aopwiki.cloud.vhp4safety.nl/](https://aopwiki.cloud.vhp4safety.nl/) [https://aopwiki.cloud.vhp4safety.nl/](https://aopwiki.cloud.vhp4safety.nl/)
