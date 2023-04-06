@@ -32,7 +32,7 @@ The current development platform runs several services.
 
 <img width="150" align="right"
      alt="screenshot of the service" 
-     src="service/aopwiki.png">
+     src="service/AOP-Wiki RDF logo square large.png">
 ### AOP-Wiki Snorql UI
 
 Graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki.md)]
