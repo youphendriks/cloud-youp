@@ -27,7 +27,7 @@ Graphical interface to an AOP-Wiki SPARQL endpoint.
 * License: 
 * Source Code: 
 * Docker: 
-* Bio.tools: 
+* Bio.tools: [https://bio.tools/aop-wiki_rdf](https://bio.tools/aop-wiki_rdf)
 * TeSS: 
 
 <h3 id="tess-widget-materials-header"></h3>
