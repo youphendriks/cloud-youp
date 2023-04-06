@@ -3,7 +3,7 @@
   "service": "AOP-Wiki Snorql UI",
   "type": "SPARQL endpoint",
   "description": "Graphical interface to an AOP-Wiki SPARQL endpoint.",
-  "screenshot": "AOP-Wiki RDF logo square large.png",
+  "screenshot": "aopwiki.png",
   "url": "https://aopwiki.cloud.vhp4safety.nl/",
   "doi": "10.1089/aivt.2021.0010",
   "bio.tools": "aop-wiki_rdf",
