@@ -18,7 +18,6 @@
     "contact": {
       "name": "Egon Willighagen"
     },
-    "url": "",
     "name": "simolecule"
   },
   "access": {
@@ -27,6 +26,6 @@
   },
   "ELIXIR": {
     "biotools": "cdk_depict",
-    "tess": ""
+    "tess": "cdk depict"
   }
 }
