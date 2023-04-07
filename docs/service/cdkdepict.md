@@ -28,14 +28,14 @@ A webservice that converts a SMILES into 2D depictions (SVG or PNG).
 * Source Code: [https://github.com/cdk/depict](https://github.com/cdk/depict)
 * Docker: [https://hub.docker.com/r/simolecule/cdkdepict](https://hub.docker.com/r/simolecule/cdkdepict)
 * Bio.tools: [https://bio.tools/cdk_depict](https://bio.tools/cdk_depict)
-* TeSS: 
+* TeSS: [https://tess.elixir-europe.org/search?q=cdk depict](https://tess.elixir-europe.org/search?q=cdk depict)
 
 <h3 id="tess-widget-materials-header"></h3>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
 function initTeSSWidgets() {
-    var query = '';
+    var query = 'cdk depict';
     if (query.trim() != "") {
         TessWidget.Materials(document.getElementById('tess-widget-materials-list'),
             'SimpleList',
