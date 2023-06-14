@@ -79,6 +79,15 @@ Online service to extract chemical structures from PDFs and images. [[more info]
 
 -------------------------------------------------------------------------------
 
+![Fairspace logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/fairspace.png "Click on the image to go to the service")
+
+## Fairspace
+
+An open source (meta)data platform that also allows import/export of metadata and uses RDF (turtle) underneath. [[more info](service/fairspace.md)]
+
+
+-------------------------------------------------------------------------------
+
 
 ## Flame
 
