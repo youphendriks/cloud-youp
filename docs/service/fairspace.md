@@ -21,11 +21,11 @@ An open source (meta)data platform that also allows import/export of metadata an
 
 ## Tool specifications
 
-* Provided by: The Hyve ([[www.thehyve.nl](https://www.thehyve.nl/)]([www.thehyve.nl](https://www.thehyve.nl/)))
+* Provided by: The Hyve ([https://www.thehyve.nl/](https://www.thehyve.nl/))
 * Citation: 
 * Version: [0.7.8](https://github.com/thehyve/fairspace/blob/dev/VERSION)
 * License: [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.txt)
-* Source Code: [[github.com/thehyve/fairspace](https://github.com/thehyve/fairspace)]([github.com/thehyve/fairspace](https://github.com/thehyve/fairspace))
+* Source Code: [https://github.com/thehyve/fairspace](https://github.com/thehyve/fairspace)
 * Docker: [[pluto](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/pluto), [saturn](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/saturn), [jupyterhub-hub](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-hub), [jupyterhub-singleuser](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-singleuser)]([pluto](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/pluto), [saturn](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/saturn), [jupyterhub-hub](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-hub), [jupyterhub-singleuser](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-singleuser))
 * Bio.tools: 
 * TeSS: 
