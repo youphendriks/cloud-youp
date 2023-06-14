@@ -7,7 +7,7 @@
   "instance": {
     "license": "[Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.txt)",
     "version": "[0.7.8](https://github.com/thehyve/fairspace/blob/dev/VERSION)",
-    "source": "[github.com/thehyve/fairspace](https://github.com/thehyve/fairspace)",
+    "source": "https://github.com/thehyve/fairspace",
     "docker": "[pluto](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/pluto), [saturn](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/saturn), [jupyterhub-hub](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-hub), [jupyterhub-singleuser](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-singleuser)",
   },
   "provider": {
@@ -15,7 +15,7 @@
       "name": "The Hyve",
       "email": "office@thehyve.nl"
     },
-    "url": "[www.thehyve.nl](https://www.thehyve.nl/)",
+    "url": "https://www.thehyve.nl/",
     "name": "The Hyve"
   },
 }
