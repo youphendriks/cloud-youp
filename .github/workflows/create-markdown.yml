@@ -5,6 +5,11 @@ on:
   push:
     paths:
       - 'docs/service/*.json'
+  pull_request:
+    branches:    
+      - main
+    paths:
+      - 'docs/service/*.json'
 
 jobs:
   webpage:
