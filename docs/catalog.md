@@ -113,6 +113,14 @@ A catalogue of metadata records about datasets. [[more info](service/jrc_data_ca
 -------------------------------------------------------------------------------
 
 
+## OPSIN: Open Parser for Systematic IUPAC nomenclature
+
+null [[more info](service/opsin.md)]
+
+
+-------------------------------------------------------------------------------
+
+
 ## PopGen
 
 Service to generate online virtual human population. [[more info](service/popgen.md)]
