@@ -115,7 +115,7 @@ A catalogue of metadata records about datasets. [[more info](service/jrc_data_ca
 
 ## OPSIN: Open Parser for Systematic IUPAC nomenclature
 
-null [[more info](service/opsin.md)]
+Website with a tool that can parse IUPAC names for chemicals into the chemical graph notation SMILES. [[more info](service/opsin.md)]
 
 
 -------------------------------------------------------------------------------
