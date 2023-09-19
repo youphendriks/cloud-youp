@@ -36,6 +36,14 @@ BioModels is a repository of mathematical models of biological and biomedical sy
 
 -------------------------------------------------------------------------------
 
+
+## BioTransformer
+
+Website with a tool that can predict metabolites for a SMILES. [[more info](service/biotransformer.md)]
+
+
+-------------------------------------------------------------------------------
+
 ![BridgeDb logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/bridgedb.png "Click on the image to go to the service")
 
 ## BridgeDb
