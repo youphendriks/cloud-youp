@@ -31,6 +31,7 @@
 * FAIRsharing: %ELIXIR.fairsharing%
 * TeSS: %ELIXIR.tess%
 * RSD: %Other.rsd%
+* Wikipedia: %Other.wikipedia%
 
 <h3 id="tess-widget-materials-header"></h3>
 
