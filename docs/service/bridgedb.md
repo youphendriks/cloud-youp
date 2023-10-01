@@ -30,6 +30,7 @@ A framework to map identifiers between various biological databases and related 
 * Bio.tools: [https://bio.tools/bridgedb](https://bio.tools/bridgedb)
 * FAIRsharing: [https://doi.org/?q=10.25504/FAIRsharing.5ry74y](https://doi.org/?q=10.25504/FAIRsharing.5ry74y)
 * TeSS: [https://tess.elixir-europe.org/search?q=bridgedb](https://tess.elixir-europe.org/search?q=bridgedb)
+* RSD: [bridgedb-java](https://research-software-directory.org/software/bridgedb-java)
 
 <h3 id="tess-widget-materials-header"></h3>
 

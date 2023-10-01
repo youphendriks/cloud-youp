@@ -30,6 +30,7 @@ Graphical interface to an AOP-Wiki SPARQL endpoint.
 * Bio.tools: [https://bio.tools/aop-wiki_rdf](https://bio.tools/aop-wiki_rdf)
 * FAIRsharing: 
 * TeSS: 
+* RSD: 
 
 <h3 id="tess-widget-materials-header"></h3>
 

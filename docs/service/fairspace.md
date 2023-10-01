@@ -30,6 +30,7 @@ An open source (meta)data platform that also allows import/export of metadata an
 * Bio.tools: 
 * FAIRsharing: 
 * TeSS: 
+* RSD: 
 
 <h3 id="tess-widget-materials-header"></h3>
 

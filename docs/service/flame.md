@@ -30,6 +30,7 @@ An open source framework for model development, hosting, and usage in production
 * Bio.tools: 
 * FAIRsharing: 
 * TeSS: 
+* RSD: 
 
 <h3 id="tess-widget-materials-header"></h3>
 

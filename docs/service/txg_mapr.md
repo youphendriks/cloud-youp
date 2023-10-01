@@ -30,6 +30,7 @@ An R-Shiny-based implementation of weighted gene co-expression network analysis 
 * Bio.tools: [https://bio.tools/TXG-MAPr](https://bio.tools/TXG-MAPr)
 * FAIRsharing: 
 * TeSS: 
+* RSD: 
 
 <h3 id="tess-widget-materials-header"></h3>
 

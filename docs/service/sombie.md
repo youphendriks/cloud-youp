@@ -29,14 +29,15 @@ A webservice for protein-structure and reactivity based (P450) site-of-metabolis
 * Docker: 
 * Bio.tools: 
 * FAIRsharing: 
-* TeSS: 
+* TeSS: [https://tess.elixir-europe.org/search?q=site-of-metabolism](https://tess.elixir-europe.org/search?q=site-of-metabolism)
+* RSD: 
 
 <h3 id="tess-widget-materials-header"></h3>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
 function initTeSSWidgets() {
-    var query = '';
+    var query = 'site-of-metabolism';
     if (query.trim() != "") {
         TessWidget.Materials(document.getElementById('tess-widget-materials-list'),
             'SimpleList',

@@ -30,6 +30,7 @@ A catalogue of metadata records about datasets.
 * Bio.tools: 
 * FAIRsharing: 
 * TeSS: 
+* RSD: 
 
 <h3 id="tess-widget-materials-header"></h3>
 

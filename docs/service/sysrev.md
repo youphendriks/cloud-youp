@@ -30,6 +30,7 @@ Service to support literature research.
 * Bio.tools: [https://bio.tools/sysrev](https://bio.tools/sysrev)
 * FAIRsharing: 
 * TeSS: 
+* RSD: 
 
 <h3 id="tess-widget-materials-header"></h3>
 

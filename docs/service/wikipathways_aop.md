@@ -30,6 +30,7 @@ This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the mole
 * Bio.tools: [https://bio.tools/wikipathways](https://bio.tools/wikipathways)
 * FAIRsharing: 
 * TeSS: [https://tess.elixir-europe.org/search?q=WikiPathways](https://tess.elixir-europe.org/search?q=WikiPathways)
+* RSD: 
 
 <h3 id="tess-widget-materials-header"></h3>
 
