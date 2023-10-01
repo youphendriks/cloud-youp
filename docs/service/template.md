@@ -28,6 +28,7 @@
 * Source Code: %instance.source%
 * Docker: %instance.docker%
 * Bio.tools: %ELIXIR.biotools%
+* FAIRsharing: %ELIXIR.fairsharing%
 * TeSS: %ELIXIR.tess%
 
 <h3 id="tess-widget-materials-header"></h3>

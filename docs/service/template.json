@@ -139,9 +139,11 @@
   // [?OC] Also, is the information below supposed to be a link? If so, I think
   // we should make it clear here. 
   "ELIXIR": {
-    // The link to the source on bio.tools.
+    // The keyword for the link to the source on bio.tools.
     "biotools": "",
-    // The link to the source on TeSS.
-    "tess": ""
+    // The keyword for link to the source on TeSS.
+    "tess": "",
+    // the DOI for the entry on FAIRsharing.org
+    "fairsharing": ""
   }
 }
