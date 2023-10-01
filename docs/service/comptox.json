@@ -16,5 +16,8 @@
 
     "url": "https://www.epa.gov/",
     "name": "United States Environmental Protection Agency"
+  },
+  "Other": {
+    "wikipedia": "CompTox_Chemicals_Dashboard"
   }
 }
