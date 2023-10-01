@@ -8,31 +8,19 @@
   "instance": {
     "type": "VHP4Safety",
     "vhp-platform": "External",
-    "url": "",
-    "license": "Proprietary",
-    "version": "",
-    "source": "",
-    "docker": "",
-    "TRL": ""
+    "license": "Proprietary"
   },
   "provider": {
     "contact": {
       "name": "Steven J. Kunnen",
       "email": "s.j.kunnen@lacdr.leidenuniv.nl"
     },
-    "url": "",
     "name": "Leiden University"
   },
   "access": {
-    "API": "",
-    "login": "Yes",
-    "packages": {
-      "R": "",
-      "Python": ""
-    }
+    "login": "Yes"
   },
   "ELIXIR": {
-    "biotools": "TXG-MAPr",
-    "tess": ""
+    "biotools": "TXG-MAPr"
   }
 }
