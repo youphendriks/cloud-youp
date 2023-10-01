@@ -145,5 +145,14 @@
     "tess": "",
     // the DOI for the entry on FAIRsharing.org
     "fairsharing": ""
+  },
+
+  // Other information sources
+  "Other": {
+    // Wikipedia page
+    "wikipedia": "",
+    // Dutch Research Software Directory
+    "rsd": ""
   }
+
 }

@@ -79,6 +79,8 @@ if (dataFile != "template.json") {
     if (line.contains("%ELIXIR.tess%")) { line = processRich(line, data, "ELIXIR.tess", "[https://tess.elixir-europe.org/search?q=%ELIXIR.tess%](https://tess.elixir-europe.org/search?q=%ELIXIR.tess%)") }
     if (line.contains("%ELIXIR.fairsharing%")) { line = processRich(line, data, "ELIXIR.fairsharing", "[https://doi.org/?q=%ELIXIR.fairsharing%](https://doi.org/?q=%ELIXIR.fairsharing%)") }
     if (line.contains("%ELIXIR.tess.noExpand%")) { line = process(line, data, "ELIXIR.tess.noExpand") }
+    if (line.contains("%Other.wikipedia%")) { line = processRich(line, data, "Other.wikipedia", "[%instance.docker%](https://en.wikipedia.org/wiki/%Other.wikipedia%)") }
+    if (line.contains("%Other.rsd%")) { line = processRich(line, data, "Other.rsd", "[%Other.rsd%](https://research-software-directory.org/software/%Other.rsd%)") }
     if (line.contains("%demo.title%")) { line = process(line, data, "demo.title") }
     if (line.contains("%demo.url%")) { line = process(line, data, "demo.url") }
     outputFile << line + "\n"

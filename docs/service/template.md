@@ -30,6 +30,7 @@
 * Bio.tools: %ELIXIR.biotools%
 * FAIRsharing: %ELIXIR.fairsharing%
 * TeSS: %ELIXIR.tess%
+* RSD: %Other.rsd%
 
 <h3 id="tess-widget-materials-header"></h3>
 
