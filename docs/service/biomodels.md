@@ -28,6 +28,7 @@ BioModels is a repository of mathematical models of biological and biomedical sy
 * Source Code: 
 * Docker: 
 * Bio.tools: [https://bio.tools/biomodels](https://bio.tools/biomodels)
+* FAIRsharing: 
 * TeSS: [https://tess.elixir-europe.org/search?q=BioModels](https://tess.elixir-europe.org/search?q=BioModels)
 
 <h3 id="tess-widget-materials-header"></h3>

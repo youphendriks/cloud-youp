@@ -28,6 +28,7 @@ Online service to extract chemical structures from PDFs and images.
 * Source Code: [https://github.com/Kohulan/DECIMER-Image_Transformer](https://github.com/Kohulan/DECIMER-Image_Transformer)
 * Docker: [https://github.com/OBrink/DECIMER_Web](https://github.com/OBrink/DECIMER_Web)
 * Bio.tools: 
+* FAIRsharing: 
 * TeSS: 
 
 <h3 id="tess-widget-materials-header"></h3>

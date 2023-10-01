@@ -28,6 +28,7 @@ A user-friendly solutions for microarray quality control and pre-processing
 * Source Code: 
 * Docker: 
 * Bio.tools: 
+* FAIRsharing: 
 * TeSS: [https://tess.elixir-europe.org/search?q=arrayanalysis.org](https://tess.elixir-europe.org/search?q=arrayanalysis.org)
 
 <h3 id="tess-widget-materials-header"></h3>

@@ -28,6 +28,7 @@ A Wikibase instance to hold information about compounds.
 * Source Code: 
 * Docker: 
 * Bio.tools: 
+* FAIRsharing: 
 * TeSS: 
 
 <h3 id="tess-widget-materials-header"></h3>

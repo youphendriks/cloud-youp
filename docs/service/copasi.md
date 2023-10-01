@@ -28,6 +28,7 @@ Open-source software application for creating and solving mathematical models of
 * Source Code: 
 * Docker: 
 * Bio.tools: [https://bio.tools/copasi](https://bio.tools/copasi)
+* FAIRsharing: 
 * TeSS: 
 
 <h3 id="tess-widget-materials-header"></h3>

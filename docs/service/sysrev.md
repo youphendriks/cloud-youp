@@ -28,6 +28,7 @@ Service to support literature research.
 * Source Code: 
 * Docker: 
 * Bio.tools: [https://bio.tools/sysrev](https://bio.tools/sysrev)
+* FAIRsharing: 
 * TeSS: 
 
 <h3 id="tess-widget-materials-header"></h3>

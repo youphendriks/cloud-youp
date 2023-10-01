@@ -28,6 +28,7 @@ A catalogue of metadata records about datasets.
 * Source Code: 
 * Docker: 
 * Bio.tools: 
+* FAIRsharing: 
 * TeSS: 
 
 <h3 id="tess-widget-materials-header"></h3>

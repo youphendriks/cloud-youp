@@ -28,6 +28,7 @@ Website with a tool that can parse IUPAC names for chemicals into the chemical g
 * Source Code: 
 * Docker: 
 * Bio.tools: 
+* FAIRsharing: 
 * TeSS: [https://tess.elixir-europe.org/search?q=opsin](https://tess.elixir-europe.org/search?q=opsin)
 
 <h3 id="tess-widget-materials-header"></h3>

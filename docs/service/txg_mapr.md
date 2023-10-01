@@ -28,6 +28,7 @@ An R-Shiny-based implementation of weighted gene co-expression network analysis 
 * Source Code: 
 * Docker: 
 * Bio.tools: [https://bio.tools/TXG-MAPr](https://bio.tools/TXG-MAPr)
+* FAIRsharing: 
 * TeSS: 
 
 <h3 id="tess-widget-materials-header"></h3>

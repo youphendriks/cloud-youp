@@ -28,6 +28,7 @@ An open source framework for model development, hosting, and usage in production
 * Source Code: [https://github.com/phi-grib/flame](https://github.com/phi-grib/flame)
 * Docker: [https://hub.docker.com/r/mpastorphi/flame](https://hub.docker.com/r/mpastorphi/flame)
 * Bio.tools: 
+* FAIRsharing: 
 * TeSS: 
 
 <h3 id="tess-widget-materials-header"></h3>

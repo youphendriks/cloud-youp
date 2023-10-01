@@ -28,6 +28,7 @@ Service to generate online virtual human population.
 * Source Code: 
 * Docker: 
 * Bio.tools: 
+* FAIRsharing: 
 * TeSS: 
 
 <h3 id="tess-widget-materials-header"></h3>
