@@ -30,12 +30,9 @@ and users can [request additional services](https://github.com/VHP4Safety/cloud/
 The VHP4Safety Cloud catalog of potential, internal, and external services is
 available [here](catalog.md).
 
-## Production VHP4Safety Platform
-
-There currently is no production platform yet.
 """
 
-println """## Development VHP4Safety Platform
+println """## VHP4Safety Platform
 
 The current development platform runs several services.
 """
@@ -57,7 +54,7 @@ list.each { file ->
   if (data.instance && (data.instance.type == "VHP4Safety") && (data.instance["vhp-platform"] == "Development")) {
     if (data.screenshot) logo = "<img width=\"150\" align=\"right\"\n     alt=\"screenshot of the service\" \n     src=\"service/${data.screenshot}\">"
     println """${logo}
-### ${data.service}
+### <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 640 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M0 336c0 79.5 64.5 144 144 144H512c70.7 0 128-57.3 128-128c0-61.9-44-113.6-102.4-125.4c4.1-10.7 6.4-22.4 6.4-34.6c0-53-43-96-96-96c-19.7 0-38.1 6-53.3 16.2C367 64.2 315.3 32 256 32C167.6 32 96 103.6 96 192c0 2.7 .1 5.4 .2 8.1C40.2 219.8 0 273.2 0 336z"/></svg> ${data.service}
 
 ${data.description} [[more info](service/${data.id}.md)]
 
@@ -79,7 +76,7 @@ list.each { file ->
        (data.instance.type == "VHP4Safety Selection"))) {
     if (data.screenshot) logo = "<img width=\"150\" align=\"right\"\n     alt=\"screenshot of the service\" \n     src=\"service/${data.screenshot}\">"
     println """${logo}
-### ${data.service}
+### <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M352 0c-12.9 0-24.6 7.8-29.6 19.8s-2.2 25.7 6.9 34.9L370.7 96 201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L416 141.3l41.4 41.4c9.2 9.2 22.9 11.9 34.9 6.9s19.8-16.6 19.8-29.6V32c0-17.7-14.3-32-32-32H352zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z"/></svg> ${data.service}
 
 ${data.description} [[more info](service/${data.id}.md)]
 
