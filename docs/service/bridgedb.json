@@ -25,6 +25,7 @@
   },
   "ELIXIR": {
     "biotools": "bridgedb",
-    "tess": "bridgedb"
+    "tess": "bridgedb",
+    "fairsharing": "10.25504/FAIRsharing.5ry74y"
   }
 }
