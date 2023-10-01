@@ -19,5 +19,8 @@
   "access": {
     "API": "REST",
     "login": "No"
+  },
+  "ELIXIR": {
+    "tess": "site-of-metabolism"
   }
 }
