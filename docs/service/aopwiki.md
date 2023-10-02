@@ -31,6 +31,7 @@ Graphical interface to an AOP-Wiki SPARQL endpoint.
 * FAIRsharing: 
 * TeSS: 
 * RSD: 
+* Wikipedia: 
 
 <h3 id="tess-widget-materials-header"></h3>
 

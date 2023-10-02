@@ -31,6 +31,7 @@ An open source (meta)data platform that also allows import/export of metadata an
 * FAIRsharing: 
 * TeSS: 
 * RSD: 
+* Wikipedia: 
 
 <h3 id="tess-widget-materials-header"></h3>
 

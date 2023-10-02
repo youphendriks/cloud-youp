@@ -31,6 +31,7 @@ BioModels is a repository of mathematical models of biological and biomedical sy
 * FAIRsharing: 
 * TeSS: [https://tess.elixir-europe.org/search?q=BioModels](https://tess.elixir-europe.org/search?q=BioModels)
 * RSD: 
+* Wikipedia: 
 
 <h3 id="tess-widget-materials-header"></h3>
 

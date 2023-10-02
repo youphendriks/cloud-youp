@@ -31,6 +31,7 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 * FAIRsharing: 
 * TeSS: 
 * RSD: 
+* Wikipedia: [%instance.docker%](https://en.wikipedia.org/wiki/CompTox_Chemicals_Dashboard)
 
 <h3 id="tess-widget-materials-header"></h3>
 

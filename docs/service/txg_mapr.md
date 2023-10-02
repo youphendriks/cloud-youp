@@ -31,6 +31,7 @@ An R-Shiny-based implementation of weighted gene co-expression network analysis 
 * FAIRsharing: 
 * TeSS: 
 * RSD: 
+* Wikipedia: 
 
 <h3 id="tess-widget-materials-header"></h3>
 

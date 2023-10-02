@@ -120,6 +120,15 @@ A catalogue of metadata records about datasets. [[more info](service/jrc_data_ca
 
 -------------------------------------------------------------------------------
 
+![The OECD QSAR Toolbox logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oecd_qsar_toolbox.png "Click on the image to go to the service")
+
+## The OECD QSAR Toolbox
+
+The OECD QSAR Toolbox is a software designed to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way. As a freely available computational tool, it promotes the use of assessment methods alternative to animals and minimizes unnecessary animal testing without reducing the safety of human health and environment. It is intended to be used by governments, chemical industry and other stakeholders. [[more info](service/oecd_qsar_toolbox.md)]
+
+
+-------------------------------------------------------------------------------
+
 
 ## OPSIN: Open Parser for Systematic IUPAC nomenclature
 

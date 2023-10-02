@@ -31,6 +31,7 @@ A webservice that converts a SMILES into 2D depictions (SVG or PNG).
 * FAIRsharing: 
 * TeSS: [https://tess.elixir-europe.org/search?q=cdk depict](https://tess.elixir-europe.org/search?q=cdk depict)
 * RSD: 
+* Wikipedia: 
 
 <h3 id="tess-widget-materials-header"></h3>
 

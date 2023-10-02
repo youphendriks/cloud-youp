@@ -31,6 +31,7 @@ A Wikibase instance to hold information about compounds.
 * FAIRsharing: 
 * TeSS: 
 * RSD: 
+* Wikipedia: 
 
 <h3 id="tess-widget-materials-header"></h3>
 

@@ -31,6 +31,7 @@ Online service to extract chemical structures from PDFs and images.
 * FAIRsharing: 
 * TeSS: 
 * RSD: 
+* Wikipedia: 
 
 <h3 id="tess-widget-materials-header"></h3>
 

@@ -31,6 +31,7 @@ A modeling tool of biochemical networks.
 * FAIRsharing: 
 * TeSS: 
 * RSD: 
+* Wikipedia: 
 
 <h3 id="tess-widget-materials-header"></h3>
 
