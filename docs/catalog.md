@@ -146,6 +146,14 @@ Service to generate online virtual human population. [[more info](service/popgen
 -------------------------------------------------------------------------------
 
 
+## QSPRpred
+
+Service to train and employ QSAR and PCM models. Takes a compound structure and pretrained model as input and returns the predicted potency of said compound. [[more info](service/qsprpred.md)]
+
+
+-------------------------------------------------------------------------------
+
+
 ## SOM Prediction
 
 A webservice for protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more info](service/sombie.md)]
