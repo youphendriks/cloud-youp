@@ -5,9 +5,9 @@
 A Wikibase instance to hold information about compounds.
 
 ![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/VHP4Safety_ChemicalCompounds.png "Click on the image to go to the service")
-## VHP4Safety Service
+## VHP4Safety Selection Service
 
-* Development cloud: [https://compoundcloud.wikibase.cloud/](https://compoundcloud.wikibase.cloud/) []()
+*  cloud: [https://compoundcloud.wikibase.cloud/](https://compoundcloud.wikibase.cloud/) []()
 * Login required: No
 * Implementation status: 
 * TRL: 
