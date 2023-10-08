@@ -194,6 +194,14 @@ A Wikibase instance to hold information about compounds. [[more info](service/wi
 This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs. [[more info](service/wikipathways_aop.md)]
 
 
+-------------------------------------------------------------------------------
+
+
+## xploreaop
+
+null [[more info](service/xploreaop.md)]
+
+
 
 ### Funding
 
