@@ -21,7 +21,7 @@ A framework to map identifiers between various biological databases and related 
 
 ## Tool specifications
 
-* Provided by: bigcatum 
+* Provided by: Dept. of Bioinformatics - BiGCaT, NUTRIM, Maastricht University 
 * Citation: [https://doi.org/10.1186/1471-2105-11-5](https://doi.org/10.1186/1471-2105-11-5)
 * Version: 2.3.3
 * License: Apache-2.0

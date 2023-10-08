@@ -199,7 +199,7 @@ This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the mole
 
 ## xploreaop
 
-null [[more info](service/xploreaop.md)]
+Shiny webapplication to visualize Adverse Outcome Pathway (AOP) networks. So far data has been included to interactively explore the AOPs for two liver outcomes: Cholestasis and Steatosis [[more info](service/xploreaop.md)]
 
 
 
