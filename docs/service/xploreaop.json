@@ -1,0 +1,16 @@
+{
+  "id": "xploreaop",
+  "service": "xploreaop",
+  "url": "https://xploreaop.cloud.vhp4safety.nl/",
+  "instance": {
+    "type": "VHP4Safety",
+    "vhp-platform": "Development",
+    "version": "2.3.3",
+    "source": "https://github.com/VHP4Safety/xploreaop"
+  },
+  "provider": {
+    "contact": {
+      "name": "Marc Teunis"
+    }
+  }
+}
