@@ -120,6 +120,14 @@ A catalogue of metadata records about datasets. [[more info](service/jrc_data_ca
 
 -------------------------------------------------------------------------------
 
+
+## VHP4Safety Wikibase User Interface
+
+A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries. [[more info](service/wikibase.md)]
+
+
+-------------------------------------------------------------------------------
+
 ![The OECD QSAR Toolbox logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oecd_qsar_toolbox.png "Click on the image to go to the service")
 
 ## The OECD QSAR Toolbox
