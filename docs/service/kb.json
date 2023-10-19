@@ -1,0 +1,20 @@
+{
+  "id": "wikibase",
+  "service": "VHP4Safety Wikibase User Interface",
+  "description": "A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries.",
+  "instance": {
+    "type": "VHP4Safety",
+    "vhp-platform": "Development",
+    "url": "https://kb.cloud.vhp4safety.nl/"
+  },
+  "provider": {
+    "contact": {
+      "name": "Egon Willighagen",
+      "email": "egon.willighagen@maastrichtuniversity.nl"
+    },
+    "name": "BiGCaT UM"
+  },
+  "access": {
+    "login": "No"
+  }
+}
