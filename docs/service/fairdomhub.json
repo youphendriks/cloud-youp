@@ -1,0 +1,28 @@
+
+{
+  "id": "fairdomhub",
+  "service": "FAIRDOMHub",
+  "description": "A web-accessible registry for storing, sharing and publishing research assets of biology projects.",
+  // "screenshot": "",
+  "url": "https://fairdomhub.org/",
+  "doi": "10.1093/nar/gkw1032",
+//  "instance": {
+//    "type": "",
+//    "vhp-platform": "",
+//    "url": "",
+//    "license": "",
+//    "version": "",
+//    "source": "",
+//    "docker": "",
+//    "TRL": ""
+//  },
+
+  "provider": {
+    "contact": {
+      "name": "FAIRDOM",
+      "email": "community@fair-dom.org"
+    },
+    "url": "https://fair-dom.org/",
+    "name": "FAIRDOM"
+  },
+}
