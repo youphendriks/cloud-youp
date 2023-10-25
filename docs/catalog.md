@@ -95,6 +95,14 @@ Online service to extract chemical structures from PDFs and images. [[more info]
 
 -------------------------------------------------------------------------------
 
+
+## FAIRDOMHub
+
+A web-accessible registry for storing, sharing and publishing research assets of biology projects. [[more info](service/fairdomhub.md)]
+
+
+-------------------------------------------------------------------------------
+
 ![Fairspace logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/fairspace.png "Click on the image to go to the service")
 
 ## Fairspace
