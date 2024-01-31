@@ -86,6 +86,14 @@ Open-source software application for creating and solving mathematical models of
 
 -------------------------------------------------------------------------------
 
+
+## cpLogD
+
+A model to predict water–octanol distribution coefficient (logD) for chemical compounds. It is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates. [[more info](service/cplogd.md)]
+
+
+-------------------------------------------------------------------------------
+
 ![DECIMER logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/decimer.png "Click on the image to go to the service")
 
 ## DECIMER
