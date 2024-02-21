@@ -8,9 +8,9 @@ A model to predict water–octanol distribution coefficient (logD) for chemical 
 
 ## Documentation
 
-### VHP4Safety Documentation
+#### VHP4Safety Documentation
 
-* Serivice introduction: []()
+* Serivice introduction: [Predicting Water–Octanol Distribution Coefficient (logD) for Chemical Compounds](https://docs.vhp4safety.nl/en/latest/tutorials/cplogd/cplogd_tutorial.html)
 * Workflow: []()
 * Demo: []()
 

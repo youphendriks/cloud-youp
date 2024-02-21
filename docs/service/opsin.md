@@ -8,7 +8,7 @@ Website with a tool that can parse IUPAC names for chemicals into the chemical g
 
 ## Documentation
 
-### VHP4Safety Documentation
+#### VHP4Safety Documentation
 
 * Serivice introduction: []()
 * Workflow: []()

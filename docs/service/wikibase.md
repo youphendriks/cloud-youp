@@ -8,7 +8,7 @@ A Wikibase instance to hold information about compounds.
 
 ## Documentation
 
-### VHP4Safety Documentation
+#### VHP4Safety Documentation
 
 * Serivice introduction: []()
 * Workflow: []()

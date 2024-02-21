@@ -8,7 +8,7 @@ Website with a tool that can predict metabolites for a SMILES.
 
 ## Documentation
 
-### VHP4Safety Documentation
+#### VHP4Safety Documentation
 
 * Serivice introduction: []()
 * Workflow: []()

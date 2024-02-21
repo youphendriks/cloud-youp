@@ -8,7 +8,7 @@ A web-accessible registry for storing, sharing and publishing research assets of
 
 ## Documentation
 
-### VHP4Safety Documentation
+#### VHP4Safety Documentation
 
 * Serivice introduction: []()
 * Workflow: []()

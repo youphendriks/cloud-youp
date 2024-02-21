@@ -8,7 +8,7 @@ A user-friendly solutions for microarray quality control and pre-processing
 
 ## Documentation
 
-### VHP4Safety Documentation
+#### VHP4Safety Documentation
 
 * Serivice introduction: []()
 * Workflow: []()

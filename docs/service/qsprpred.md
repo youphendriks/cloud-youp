@@ -8,7 +8,7 @@ Service to train and employ QSAR and PCM models. Takes a compound structure and 
 
 ## Documentation
 
-### VHP4Safety Documentation
+#### VHP4Safety Documentation
 
 * Serivice introduction: []()
 * Workflow: []()
