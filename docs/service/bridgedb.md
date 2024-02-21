@@ -8,6 +8,12 @@ A framework to map identifiers between various biological databases and related 
 
 ## Documentation
 
+### VHP4Safety Documentation
+
+* Serivice introduction: [BridgeDb: Mapping Gene Identifiers](https://docs.vhp4safety.nl/en/latest/tutorials/bridgedb/gene_hgnc_name_to_ensembl.html)
+* Workflow: [Information about chemicals](https://docs.vhp4safety.nl/en/latest/tutorials/cheminfo/intro.html)
+* Demo: []()
+
 <h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
@@ -41,7 +47,6 @@ function initTeSSWidgets() {
 * Type: -
 * Contact: Egon Willighagen 
 * API Type: REST
-* Demo: []()
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -
@@ -59,18 +64,6 @@ function initTeSSWidgets() {
 * TeSS: [https://tess.elixir-europe.org/search?q=bridgedb](https://tess.elixir-europe.org/search?q=bridgedb)
 * RSD: [bridgedb-java](https://research-software-directory.org/software/bridgedb-java)
 * Wikipedia: 
-
-## Tool integration
-
-- [ ] Utilises the VHP4Safety APIs to ensure that each service is accessible to our proposed interoperability layer.
-- [ ] Is annotated according to the semantic interoperability layer concept using defined ontologies.
-- [ ] Is containerised for easy deployment in virtual environments of VHP4Safety instances.
-- [ ] Has documented scientific and technical background.
-- [ ] Is deployed into the VHP4Safety development environment.
-- [ ] Is deployed into the VHP4Safety production environment.
-- [ ] Is listed in the VHP4Safety discovery services.
-- [ ] Is listed in other central repositories like eInfraCentral, bio.tools and TeSS (ELIXIR).
-- [ ] Provides legal and ethical statements on how the service can be used.
 
 <script type="application/ld+json">
 {
