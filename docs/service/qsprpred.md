@@ -5,35 +5,10 @@
 Service to train and employ QSAR and PCM models. Takes a compound structure and pretrained model as input and returns the predicted potency of said compound.
 
 
-## VHP4Safety Service
 
-* External cloud: [https://github.com/CDDLeiden/QSPRpred](https://github.com/CDDLeiden/QSPRpred) []()
-* Login required: 
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact: Linde Schoenmaker l.schoenmaker@lacdr.leidenuniv.nl
-* API Type: , [R package](no), [Python](yes)
-* Demo: [Tutorial usage](https://github.com/CDDLeiden/QSPRpred/blob/main/tutorial/tutorial_usage.ipynb)
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by:  
-* Citation: 
-* Version: 
-* License: MIT
-* Source Code: 
-* Docker: 
-* Bio.tools: 
-* FAIRsharing: 
-* TeSS: 
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+## VHP4Safety Service Metadata
+
+* External cloud: [https://github.com/CDDLeiden/QSPRpred](https://github.com/CDDLeiden/QSPRpred) []()
+* Login required: 
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact: Linde Schoenmaker l.schoenmaker@lacdr.leidenuniv.nl
+* API Type: , [R package](no), [Python](yes)
+* Demo: [Tutorial usage](https://github.com/CDDLeiden/QSPRpred/blob/main/tutorial/tutorial_usage.ipynb)
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by:  
+* Citation: 
+* Version: 
+* License: MIT
+* Source Code: 
+* Docker: 
+* Bio.tools: 
+* FAIRsharing: 
+* TeSS: 
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

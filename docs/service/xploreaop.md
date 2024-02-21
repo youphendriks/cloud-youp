@@ -5,35 +5,10 @@
 Shiny webapplication to visualize Adverse Outcome Pathway (AOP) networks. So far data has been included to interactively explore the AOPs for two liver outcomes: Cholestasis and Steatosis
 
 
-## VHP4Safety Service
 
-* Development cloud: [https://xploreaop.cloud.vhp4safety.nl/](https://xploreaop.cloud.vhp4safety.nl/) []()
-* Login required: 
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact: Marc Teunis 
-* API Type: 
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: Hogeschool Utrecht 
-* Citation: 
-* Version: 2.3.3
-* License: 
-* Source Code: [https://github.com/VHP4Safety/xploreaop](https://github.com/VHP4Safety/xploreaop)
-* Docker: 
-* Bio.tools: 
-* FAIRsharing: 
-* TeSS: 
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+## VHP4Safety Service Metadata
+
+* Development cloud: [https://xploreaop.cloud.vhp4safety.nl/](https://xploreaop.cloud.vhp4safety.nl/) []()
+* Login required: 
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact: Marc Teunis 
+* API Type: 
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: Hogeschool Utrecht 
+* Citation: 
+* Version: 2.3.3
+* License: 
+* Source Code: [https://github.com/VHP4Safety/xploreaop](https://github.com/VHP4Safety/xploreaop)
+* Docker: 
+* Bio.tools: 
+* FAIRsharing: 
+* TeSS: 
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

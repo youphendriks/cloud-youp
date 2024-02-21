@@ -5,35 +5,10 @@
 An R-Shiny-based implementation of weighted gene co-expression network analysis (WGCNA) obtained from the Primary Human Hepatocytes (PHH) TG-GATEs dataset.
 
 ![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/txg_mapr.png "Click on the image to go to the service")
-## VHP4Safety Service
 
-* External cloud: [https://txg-mapr.eu/](https://txg-mapr.eu/) []()
-* Login required: Yes
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact: Steven J. Kunnen s.j.kunnen@lacdr.leidenuniv.nl
-* API Type: 
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: Leiden University 
-* Citation: [https://doi.org/10.1007/s00204-021-03141-w](https://doi.org/10.1007/s00204-021-03141-w)
-* Version: 
-* License: Proprietary
-* Source Code: 
-* Docker: 
-* Bio.tools: [https://bio.tools/TXG-MAPr](https://bio.tools/TXG-MAPr)
-* FAIRsharing: 
-* TeSS: 
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+## VHP4Safety Service Metadata
+
+* External cloud: [https://txg-mapr.eu/](https://txg-mapr.eu/) []()
+* Login required: Yes
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact: Steven J. Kunnen s.j.kunnen@lacdr.leidenuniv.nl
+* API Type: 
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: Leiden University 
+* Citation: [https://doi.org/10.1007/s00204-021-03141-w](https://doi.org/10.1007/s00204-021-03141-w)
+* Version: 
+* License: Proprietary
+* Source Code: 
+* Docker: 
+* Bio.tools: [https://bio.tools/TXG-MAPr](https://bio.tools/TXG-MAPr)
+* FAIRsharing: 
+* TeSS: 
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

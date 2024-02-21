@@ -5,35 +5,10 @@
 Open-source software application for creating and solving mathematical models of biological processes such as metabolic networks, cell-signaling pathways, regulatory networks, infectious diseases, and many others.
 
 
-##  Service
 
-*  cloud: [http://copasi.org/](http://copasi.org/) []()
-* Login required: 
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact: The COPASI Project http://copasi.org/About/Team/
-* API Type: 
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by:  
-* Citation: [https://doi.org/10.1093/bioinformatics/btl485](https://doi.org/10.1093/bioinformatics/btl485)
-* Version: 
-* License: 
-* Source Code: 
-* Docker: 
-* Bio.tools: [https://bio.tools/copasi](https://bio.tools/copasi)
-* FAIRsharing: 
-* TeSS: 
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+##  Service Metadata
+
+*  cloud: [http://copasi.org/](http://copasi.org/) []()
+* Login required: 
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact: The COPASI Project http://copasi.org/About/Team/
+* API Type: 
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by:  
+* Citation: [https://doi.org/10.1093/bioinformatics/btl485](https://doi.org/10.1093/bioinformatics/btl485)
+* Version: 
+* License: 
+* Source Code: 
+* Docker: 
+* Bio.tools: [https://bio.tools/copasi](https://bio.tools/copasi)
+* FAIRsharing: 
+* TeSS: 
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

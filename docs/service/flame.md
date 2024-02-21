@@ -5,35 +5,10 @@
 An open source framework for model development, hosting, and usage in production environments.
 
 
-##  Service
 
-*  cloud: [http://flame.cloud.vhp4safety.nl:8098/](http://flame.cloud.vhp4safety.nl:8098/) []()
-* Login required: 
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact: Manuel Pastor manuel.pastor@upf.edu
-* API Type: 
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by:  
-* Citation: [https://doi.org/10.1186/s13321-021-00509-z](https://doi.org/10.1186/s13321-021-00509-z)
-* Version: 1.2.0
-* License: GNU General Public License v3.0
-* Source Code: [https://github.com/phi-grib/flame](https://github.com/phi-grib/flame)
-* Docker: [https://hub.docker.com/r/mpastorphi/flame](https://hub.docker.com/r/mpastorphi/flame)
-* Bio.tools: 
-* FAIRsharing: 
-* TeSS: 
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+##  Service Metadata
+
+*  cloud: [http://flame.cloud.vhp4safety.nl:8098/](http://flame.cloud.vhp4safety.nl:8098/) []()
+* Login required: 
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact: Manuel Pastor manuel.pastor@upf.edu
+* API Type: 
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by:  
+* Citation: [https://doi.org/10.1186/s13321-021-00509-z](https://doi.org/10.1186/s13321-021-00509-z)
+* Version: 1.2.0
+* License: GNU General Public License v3.0
+* Source Code: [https://github.com/phi-grib/flame](https://github.com/phi-grib/flame)
+* Docker: [https://hub.docker.com/r/mpastorphi/flame](https://hub.docker.com/r/mpastorphi/flame)
+* Bio.tools: 
+* FAIRsharing: 
+* TeSS: 
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

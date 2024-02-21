@@ -5,35 +5,10 @@
 A framework to map identifiers between various biological databases and related sources.
 
 ![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/bridgedb.png "Click on the image to go to the service")
-## VHP4Safety Service
 
-* Development cloud: [https://bridgedb.cloud.vhp4safety.nl/](https://bridgedb.cloud.vhp4safety.nl/) []()
-* Login required: no
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact: Egon Willighagen 
-* API Type: REST
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: Dept. of Bioinformatics - BiGCaT, NUTRIM, Maastricht University 
-* Citation: [https://doi.org/10.1186/1471-2105-11-5](https://doi.org/10.1186/1471-2105-11-5)
-* Version: 2.3.3
-* License: Apache-2.0
-* Source Code: [https://github.com/bridgedb/BridgeDb](https://github.com/bridgedb/BridgeDb)
-* Docker: [https://hub.docker.com/r/bigcatum/bridgedb](https://hub.docker.com/r/bigcatum/bridgedb)
-* Bio.tools: [https://bio.tools/bridgedb](https://bio.tools/bridgedb)
-* FAIRsharing: [https://fairsharing.org/10.25504/FAIRsharing.5ry74y](https://fairsharing.org/10.25504/FAIRsharing.5ry74y)
-* TeSS: [https://tess.elixir-europe.org/search?q=bridgedb](https://tess.elixir-europe.org/search?q=bridgedb)
-* RSD: [bridgedb-java](https://research-software-directory.org/software/bridgedb-java)
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+## VHP4Safety Service Metadata
+
+* Development cloud: [https://bridgedb.cloud.vhp4safety.nl/](https://bridgedb.cloud.vhp4safety.nl/) []()
+* Login required: no
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact: Egon Willighagen 
+* API Type: REST
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: Dept. of Bioinformatics - BiGCaT, NUTRIM, Maastricht University 
+* Citation: [https://doi.org/10.1186/1471-2105-11-5](https://doi.org/10.1186/1471-2105-11-5)
+* Version: 2.3.3
+* License: Apache-2.0
+* Source Code: [https://github.com/bridgedb/BridgeDb](https://github.com/bridgedb/BridgeDb)
+* Docker: [https://hub.docker.com/r/bigcatum/bridgedb](https://hub.docker.com/r/bigcatum/bridgedb)
+* Bio.tools: [https://bio.tools/bridgedb](https://bio.tools/bridgedb)
+* FAIRsharing: [https://fairsharing.org/10.25504/FAIRsharing.5ry74y](https://fairsharing.org/10.25504/FAIRsharing.5ry74y)
+* TeSS: [https://tess.elixir-europe.org/search?q=bridgedb](https://tess.elixir-europe.org/search?q=bridgedb)
+* RSD: [bridgedb-java](https://research-software-directory.org/software/bridgedb-java)
+* Wikipedia: 
 
 ## Tool integration
 

@@ -5,35 +5,10 @@
 A modeling tool of biochemical networks.
 
 
-## No API Service
 
-*  cloud: [https://www.celldesigner.org/](https://www.celldesigner.org/) []()
-* Login required: 
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact: Systems Biology Institute (SBI) info@celldesigner.org
-* API Type: 
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: Systems Biology Institute (SBI) ([https://sbi.jp/](https://sbi.jp/))
-* Citation: [https://doi.org/10.1016/S1478-5382(03)02370-9](https://doi.org/10.1016/S1478-5382(03)02370-9)
-* Version: 4.4.2
-* License: [See licence agreement](https://www.celldesigner.org/license.txt)
-* Source Code: 
-* Docker: 
-* Bio.tools: 
-* FAIRsharing: 
-* TeSS: 
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+## No API Service Metadata
+
+*  cloud: [https://www.celldesigner.org/](https://www.celldesigner.org/) []()
+* Login required: 
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact: Systems Biology Institute (SBI) info@celldesigner.org
+* API Type: 
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: Systems Biology Institute (SBI) ([https://sbi.jp/](https://sbi.jp/))
+* Citation: [https://doi.org/10.1016/S1478-5382(03)02370-9](https://doi.org/10.1016/S1478-5382(03)02370-9)
+* Version: 4.4.2
+* License: [See licence agreement](https://www.celldesigner.org/license.txt)
+* Source Code: 
+* Docker: 
+* Bio.tools: 
+* FAIRsharing: 
+* TeSS: 
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

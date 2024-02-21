@@ -5,35 +5,10 @@
 BioModels is a repository of mathematical models of biological and biomedical systems.
 
 
-##  Service
 
-*  cloud: [https://www.ebi.ac.uk/biomodels/](https://www.ebi.ac.uk/biomodels/) []()
-* Login required: no
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact:  biomodels-net-support@lists.sf.net
-* API Type: 
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: EMBL-EBI ([https://www.ebi.ac.uk/](https://www.ebi.ac.uk/))
-* Citation: [https://doi.org/10.1093/nar/gkz1055](https://doi.org/10.1093/nar/gkz1055)
-* Version: 
-* License: 
-* Source Code: 
-* Docker: 
-* Bio.tools: [https://bio.tools/biomodels](https://bio.tools/biomodels)
-* FAIRsharing: 
-* TeSS: [https://tess.elixir-europe.org/search?q=BioModels](https://tess.elixir-europe.org/search?q=BioModels)
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+##  Service Metadata
+
+*  cloud: [https://www.ebi.ac.uk/biomodels/](https://www.ebi.ac.uk/biomodels/) []()
+* Login required: no
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact:  biomodels-net-support@lists.sf.net
+* API Type: 
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: EMBL-EBI ([https://www.ebi.ac.uk/](https://www.ebi.ac.uk/))
+* Citation: [https://doi.org/10.1093/nar/gkz1055](https://doi.org/10.1093/nar/gkz1055)
+* Version: 
+* License: 
+* Source Code: 
+* Docker: 
+* Bio.tools: [https://bio.tools/biomodels](https://bio.tools/biomodels)
+* FAIRsharing: 
+* TeSS: [https://tess.elixir-europe.org/search?q=BioModels](https://tess.elixir-europe.org/search?q=BioModels)
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

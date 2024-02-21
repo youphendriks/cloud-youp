@@ -5,35 +5,10 @@
 This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs.
 
 ![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/wikipathways_aop.png "Click on the image to go to the service")
-## VHP4Safety Service
 
-* External cloud: [http://aop.wikipathways.org/](http://aop.wikipathways.org/) []()
-* Login required: No
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact: Marvin Martens marvin.martens@maastrichtuniversity.nl
-* API Type: SPARQL
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: Maastricht University 
-* Citation: [https://doi.org/10.3389/fgene.2018.00661](https://doi.org/10.3389/fgene.2018.00661)
-* Version: 
-* License: [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
-* Source Code: 
-* Docker: 
-* Bio.tools: [https://bio.tools/wikipathways](https://bio.tools/wikipathways)
-* FAIRsharing: 
-* TeSS: [https://tess.elixir-europe.org/search?q=WikiPathways](https://tess.elixir-europe.org/search?q=WikiPathways)
-* RSD: 
-* Wikipedia: [%instance.docker%](https://en.wikipedia.org/wiki/WikiPathways)
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+## VHP4Safety Service Metadata
+
+* External cloud: [http://aop.wikipathways.org/](http://aop.wikipathways.org/) []()
+* Login required: No
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact: Marvin Martens marvin.martens@maastrichtuniversity.nl
+* API Type: SPARQL
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: Maastricht University 
+* Citation: [https://doi.org/10.3389/fgene.2018.00661](https://doi.org/10.3389/fgene.2018.00661)
+* Version: 
+* License: [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
+* Source Code: 
+* Docker: 
+* Bio.tools: [https://bio.tools/wikipathways](https://bio.tools/wikipathways)
+* FAIRsharing: 
+* TeSS: [https://tess.elixir-europe.org/search?q=WikiPathways](https://tess.elixir-europe.org/search?q=WikiPathways)
+* RSD: 
+* Wikipedia: [%instance.docker%](https://en.wikipedia.org/wiki/WikiPathways)
 
 ## Tool integration
 

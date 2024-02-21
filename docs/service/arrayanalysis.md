@@ -5,35 +5,10 @@
 A user-friendly solutions for microarray quality control and pre-processing
 
 
-##  Service
 
-*  cloud: []() []()
-* Login required: 
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact: Lars Eijssen 
-* API Type: 
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: BiGCaT, Maastricht University ([https://www.bigcat.unimaas.nl/](https://www.bigcat.unimaas.nl/))
-* Citation: [https://doi.org/10.1093/nar/gkt293](https://doi.org/10.1093/nar/gkt293)
-* Version: 
-* License: 
-* Source Code: 
-* Docker: 
-* Bio.tools: 
-* FAIRsharing: 
-* TeSS: [https://tess.elixir-europe.org/search?q=arrayanalysis.org](https://tess.elixir-europe.org/search?q=arrayanalysis.org)
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+##  Service Metadata
+
+*  cloud: []() []()
+* Login required: 
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact: Lars Eijssen 
+* API Type: 
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: BiGCaT, Maastricht University ([https://www.bigcat.unimaas.nl/](https://www.bigcat.unimaas.nl/))
+* Citation: [https://doi.org/10.1093/nar/gkt293](https://doi.org/10.1093/nar/gkt293)
+* Version: 
+* License: 
+* Source Code: 
+* Docker: 
+* Bio.tools: 
+* FAIRsharing: 
+* TeSS: [https://tess.elixir-europe.org/search?q=arrayanalysis.org](https://tess.elixir-europe.org/search?q=arrayanalysis.org)
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

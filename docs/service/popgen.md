@@ -5,35 +5,10 @@
 Service to generate online virtual human population.
 
 
-## VHP4Safety Selection Service
 
-*  cloud: [http://xnet.hsl.gov.uk/Popgen/](http://xnet.hsl.gov.uk/Popgen/) []()
-* Login required: No
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact:  infoline@hse.gov.uk
-* API Type: [SOAP](http://xnet.hsl.gov.uk/Popgen/service.aspx)
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: UK Health and Safety Laboratory ([http://www.hsl.gov.uk/](http://www.hsl.gov.uk/))
-* Citation: [https://doi.org/10.1007/s10928-007-9053-5](https://doi.org/10.1007/s10928-007-9053-5)
-* Version: 0.3.11183.0
-* License: Copyright by Bayer CropScience AG 2008
-* Source Code: 
-* Docker: 
-* Bio.tools: 
-* FAIRsharing: 
-* TeSS: 
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+## VHP4Safety Selection Service Metadata
+
+*  cloud: [http://xnet.hsl.gov.uk/Popgen/](http://xnet.hsl.gov.uk/Popgen/) []()
+* Login required: No
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact:  infoline@hse.gov.uk
+* API Type: [SOAP](http://xnet.hsl.gov.uk/Popgen/service.aspx)
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: UK Health and Safety Laboratory ([http://www.hsl.gov.uk/](http://www.hsl.gov.uk/))
+* Citation: [https://doi.org/10.1007/s10928-007-9053-5](https://doi.org/10.1007/s10928-007-9053-5)
+* Version: 0.3.11183.0
+* License: Copyright by Bayer CropScience AG 2008
+* Source Code: 
+* Docker: 
+* Bio.tools: 
+* FAIRsharing: 
+* TeSS: 
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

@@ -5,35 +5,10 @@
 An open source (meta)data platform that also allows import/export of metadata and uses RDF (turtle) underneath.
 
 ![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/fairspace.png "Click on the image to go to the service")
-##  Service
 
-*  cloud: [https://www.thehyve.nl/services/fairspace](https://www.thehyve.nl/services/fairspace) []()
-* Login required: 
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact: The Hyve office@thehyve.nl
-* API Type: 
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: The Hyve ([https://www.thehyve.nl/](https://www.thehyve.nl/))
-* Citation: 
-* Version: [0.7.8](https://github.com/thehyve/fairspace/blob/dev/VERSION)
-* License: [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.txt)
-* Source Code: [https://github.com/thehyve/fairspace](https://github.com/thehyve/fairspace)
-* Docker: [https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/pluto, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/saturn, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-hub, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-singleuser](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/pluto, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/saturn, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-hub, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-singleuser)
-* Bio.tools: 
-* FAIRsharing: 
-* TeSS: 
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+##  Service Metadata
+
+*  cloud: [https://www.thehyve.nl/services/fairspace](https://www.thehyve.nl/services/fairspace) []()
+* Login required: 
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact: The Hyve office@thehyve.nl
+* API Type: 
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: The Hyve ([https://www.thehyve.nl/](https://www.thehyve.nl/))
+* Citation: 
+* Version: [0.7.8](https://github.com/thehyve/fairspace/blob/dev/VERSION)
+* License: [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.txt)
+* Source Code: [https://github.com/thehyve/fairspace](https://github.com/thehyve/fairspace)
+* Docker: [https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/pluto, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/saturn, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-hub, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-singleuser](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/pluto, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/saturn, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-hub, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-singleuser)
+* Bio.tools: 
+* FAIRsharing: 
+* TeSS: 
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

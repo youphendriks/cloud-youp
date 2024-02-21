@@ -5,35 +5,10 @@
 An online database to provide access to chemistry, toxicity, and exposure information for chemicals.
 
 
-## Web-Based Application Service
 
-*  cloud: [https://comptox.epa.gov/dashboard/](https://comptox.epa.gov/dashboard/) []()
-* Login required: 
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact:  https://www.epa.gov/aboutepa/forms/contact-epa
-* API Type: 
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: United States Environmental Protection Agency ([https://www.epa.gov/](https://www.epa.gov/))
-* Citation: [https://doi.org/10.1186/s13321-017-0247-6](https://doi.org/10.1186/s13321-017-0247-6)
-* Version: 2.1.1
-* License: Public Domain
-* Source Code: 
-* Docker: 
-* Bio.tools: 
-* FAIRsharing: 
-* TeSS: 
-* RSD: 
-* Wikipedia: [%instance.docker%](https://en.wikipedia.org/wiki/CompTox_Chemicals_Dashboard)
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+## Web-Based Application Service Metadata
+
+*  cloud: [https://comptox.epa.gov/dashboard/](https://comptox.epa.gov/dashboard/) []()
+* Login required: 
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact:  https://www.epa.gov/aboutepa/forms/contact-epa
+* API Type: 
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: United States Environmental Protection Agency ([https://www.epa.gov/](https://www.epa.gov/))
+* Citation: [https://doi.org/10.1186/s13321-017-0247-6](https://doi.org/10.1186/s13321-017-0247-6)
+* Version: 2.1.1
+* License: Public Domain
+* Source Code: 
+* Docker: 
+* Bio.tools: 
+* FAIRsharing: 
+* TeSS: 
+* RSD: 
+* Wikipedia: [%instance.docker%](https://en.wikipedia.org/wiki/CompTox_Chemicals_Dashboard)
 
 ## Tool integration
 

@@ -5,35 +5,10 @@
 Website with a tool that can parse IUPAC names for chemicals into the chemical graph notation SMILES.
 
 
-##  Service
 
-*  cloud: [https://opsin.ch.cam.ac.uk/](https://opsin.ch.cam.ac.uk/) []()
-* Login required: no
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact: Daniel Lowe 
-* API Type: 
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by:  
-* Citation: [https://doi.org/10.1021/ci100384d](https://doi.org/10.1021/ci100384d)
-* Version: 
-* License: 
-* Source Code: 
-* Docker: 
-* Bio.tools: 
-* FAIRsharing: 
-* TeSS: [https://tess.elixir-europe.org/search?q=opsin](https://tess.elixir-europe.org/search?q=opsin)
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+##  Service Metadata
+
+*  cloud: [https://opsin.ch.cam.ac.uk/](https://opsin.ch.cam.ac.uk/) []()
+* Login required: no
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact: Daniel Lowe 
+* API Type: 
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by:  
+* Citation: [https://doi.org/10.1021/ci100384d](https://doi.org/10.1021/ci100384d)
+* Version: 
+* License: 
+* Source Code: 
+* Docker: 
+* Bio.tools: 
+* FAIRsharing: 
+* TeSS: [https://tess.elixir-europe.org/search?q=opsin](https://tess.elixir-europe.org/search?q=opsin)
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

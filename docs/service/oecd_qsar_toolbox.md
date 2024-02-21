@@ -5,35 +5,10 @@
 The OECD QSAR Toolbox is a software designed to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way. As a freely available computational tool, it promotes the use of assessment methods alternative to animals and minimizes unnecessary animal testing without reducing the safety of human health and environment. It is intended to be used by governments, chemical industry and other stakeholders.
 
 ![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oecd_qsar_toolbox.png "Click on the image to go to the service")
-##  Service
 
-*  cloud: [https://qsartoolbox.org/](https://qsartoolbox.org/) []()
-* Login required: 
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact:  
-* API Type: 
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: The Organisation for Economic Co-operation and Development ([https://www.oecd.org/](https://www.oecd.org/))
-* Citation: 
-* Version: 4.6
-* License: [Terms of Conditions](https://www.oecd.org/termsandconditions/)
-* Source Code: 
-* Docker: 
-* Bio.tools: 
-* FAIRsharing: 
-* TeSS: 
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+##  Service Metadata
+
+*  cloud: [https://qsartoolbox.org/](https://qsartoolbox.org/) []()
+* Login required: 
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact:  
+* API Type: 
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: The Organisation for Economic Co-operation and Development ([https://www.oecd.org/](https://www.oecd.org/))
+* Citation: 
+* Version: 4.6
+* License: [Terms of Conditions](https://www.oecd.org/termsandconditions/)
+* Source Code: 
+* Docker: 
+* Bio.tools: 
+* FAIRsharing: 
+* TeSS: 
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

@@ -5,35 +5,10 @@
 A webservice that converts a SMILES into 2D depictions (SVG or PNG).
 
 ![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/cdkdepict.png "Click on the image to go to the service")
-## VHP4Safety Service
 
-* Development cloud: [https://cdkdepict.cloud.vhp4safety.nl/](https://cdkdepict.cloud.vhp4safety.nl/) []()
-* Login required: no
-* Implementation status: 
-* TRL: TRL 8 - system complete and qualified
-* Type: -
-* Contact: Egon Willighagen 
-* API Type: REST
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: simolecule 
-* Citation: [https://doi.org/10.1186/s13321-017-0220-4](https://doi.org/10.1186/s13321-017-0220-4)
-* Version: 1.9.3
-* License: LGPL 2.1
-* Source Code: [https://github.com/cdk/depict](https://github.com/cdk/depict)
-* Docker: [https://hub.docker.com/r/simolecule/cdkdepict](https://hub.docker.com/r/simolecule/cdkdepict)
-* Bio.tools: [https://bio.tools/cdk_depict](https://bio.tools/cdk_depict)
-* FAIRsharing: 
-* TeSS: [https://tess.elixir-europe.org/search?q=cdk depict](https://tess.elixir-europe.org/search?q=cdk depict)
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+## VHP4Safety Service Metadata
+
+* Development cloud: [https://cdkdepict.cloud.vhp4safety.nl/](https://cdkdepict.cloud.vhp4safety.nl/) []()
+* Login required: no
+* Implementation status: 
+* TRL: TRL 8 - system complete and qualified
+* Type: -
+* Contact: Egon Willighagen 
+* API Type: REST
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: simolecule 
+* Citation: [https://doi.org/10.1186/s13321-017-0220-4](https://doi.org/10.1186/s13321-017-0220-4)
+* Version: 1.9.3
+* License: LGPL 2.1
+* Source Code: [https://github.com/cdk/depict](https://github.com/cdk/depict)
+* Docker: [https://hub.docker.com/r/simolecule/cdkdepict](https://hub.docker.com/r/simolecule/cdkdepict)
+* Bio.tools: [https://bio.tools/cdk_depict](https://bio.tools/cdk_depict)
+* FAIRsharing: 
+* TeSS: [https://tess.elixir-europe.org/search?q=cdk depict](https://tess.elixir-europe.org/search?q=cdk depict)
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

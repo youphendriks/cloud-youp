@@ -5,35 +5,10 @@
 A webservice for protein-structure and reactivity based (P450) site-of-metabolism prediction.
 
 
-## VHP4Safety Service
 
-* Development cloud: [https://sombie.cloud.vhp4safety.nl/](https://sombie.cloud.vhp4safety.nl/) [https://sombie.cloud.vhp4safety.nl/](https://sombie.cloud.vhp4safety.nl/)
-* Login required: No
-* Implementation status: 
-* TRL: Integrated application
-* Type: -
-* Contact: David Poole d.a.poole@vu.nl
-* API Type: REST
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by:  
-* Citation: 
-* Version: 
-* License: 
-* Source Code: 
-* Docker: 
-* Bio.tools: 
-* FAIRsharing: 
-* TeSS: [https://tess.elixir-europe.org/search?q=site-of-metabolism](https://tess.elixir-europe.org/search?q=site-of-metabolism)
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+## VHP4Safety Service Metadata
+
+* Development cloud: [https://sombie.cloud.vhp4safety.nl/](https://sombie.cloud.vhp4safety.nl/) [https://sombie.cloud.vhp4safety.nl/](https://sombie.cloud.vhp4safety.nl/)
+* Login required: No
+* Implementation status: 
+* TRL: Integrated application
+* Type: -
+* Contact: David Poole d.a.poole@vu.nl
+* API Type: REST
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by:  
+* Citation: 
+* Version: 
+* License: 
+* Source Code: 
+* Docker: 
+* Bio.tools: 
+* FAIRsharing: 
+* TeSS: [https://tess.elixir-europe.org/search?q=site-of-metabolism](https://tess.elixir-europe.org/search?q=site-of-metabolism)
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

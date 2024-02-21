@@ -5,35 +5,10 @@
 Website with a tool that can predict metabolites for a SMILES.
 
 
-##  Service
 
-*  cloud: [https://biotransformer.ca/](https://biotransformer.ca/) []()
-* Login required: no
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact:  
-* API Type: 
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by:  
-* Citation: [https://doi.org/10.1186/s13321-018-0324-5](https://doi.org/10.1186/s13321-018-0324-5)
-* Version: 
-* License: 
-* Source Code: 
-* Docker: 
-* Bio.tools: [https://bio.tools/biotransformer](https://bio.tools/biotransformer)
-* FAIRsharing: 
-* TeSS: 
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+##  Service Metadata
+
+*  cloud: [https://biotransformer.ca/](https://biotransformer.ca/) []()
+* Login required: no
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact:  
+* API Type: 
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by:  
+* Citation: [https://doi.org/10.1186/s13321-018-0324-5](https://doi.org/10.1186/s13321-018-0324-5)
+* Version: 
+* License: 
+* Source Code: 
+* Docker: 
+* Bio.tools: [https://bio.tools/biotransformer](https://bio.tools/biotransformer)
+* FAIRsharing: 
+* TeSS: 
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

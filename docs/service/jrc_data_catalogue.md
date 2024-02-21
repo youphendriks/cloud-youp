@@ -5,35 +5,10 @@
 A catalogue of metadata records about datasets.
 
 
-##  Service
 
-*  cloud: [https://data.jrc.ec.europa.eu/](https://data.jrc.ec.europa.eu/) []()
-* Login required: 
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact:  jrc-data-support@ec.europa.eu
-* API Type: https://data.jrc.ec.europa.eu/docs/index.html
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: European Commission ([https://commission.europa.eu/about-european-commission/contact_en](https://commission.europa.eu/about-european-commission/contact_en))
-* Citation: [https://doi.org/10.3030/681002](https://doi.org/10.3030/681002)
-* Version: 
-* License: 
-* Source Code: 
-* Docker: 
-* Bio.tools: 
-* FAIRsharing: 
-* TeSS: 
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+##  Service Metadata
+
+*  cloud: [https://data.jrc.ec.europa.eu/](https://data.jrc.ec.europa.eu/) []()
+* Login required: 
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact:  jrc-data-support@ec.europa.eu
+* API Type: https://data.jrc.ec.europa.eu/docs/index.html
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: European Commission ([https://commission.europa.eu/about-european-commission/contact_en](https://commission.europa.eu/about-european-commission/contact_en))
+* Citation: [https://doi.org/10.3030/681002](https://doi.org/10.3030/681002)
+* Version: 
+* License: 
+* Source Code: 
+* Docker: 
+* Bio.tools: 
+* FAIRsharing: 
+* TeSS: 
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

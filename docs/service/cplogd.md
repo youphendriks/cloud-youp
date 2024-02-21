@@ -5,35 +5,10 @@
 A model to predict water–octanol distribution coefficient (logD) for chemical compounds. It is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates.
 
 
-## External Service
 
-* Development cloud: [https://cplogd.cloud.vhp4safety.nl/](https://cplogd.cloud.vhp4safety.nl/) []()
-* Login required: 
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact: Ola Spjuth 
-* API Type: 
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: ArosBio ([https://arosbio.com/index.html](https://arosbio.com/index.html))
-* Citation: [https://doi.org/10.1186/s13321-018-0271-1](https://doi.org/10.1186/s13321-018-0271-1)
-* Version: 2.0.0
-* License: Copyrighted by Aros Bio
-* Source Code: [https://github.com/pharmbio/cplogd-v2.0](https://github.com/pharmbio/cplogd-v2.0)
-* Docker: [https://github.com/pharmbio/cplogd-v2.0/pkgs/container/cplogd-v2.0](https://github.com/pharmbio/cplogd-v2.0/pkgs/container/cplogd-v2.0)
-* Bio.tools: 
-* FAIRsharing: 
-* TeSS: 
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+## External Service Metadata
+
+* Development cloud: [https://cplogd.cloud.vhp4safety.nl/](https://cplogd.cloud.vhp4safety.nl/) []()
+* Login required: 
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact: Ola Spjuth 
+* API Type: 
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: ArosBio ([https://arosbio.com/index.html](https://arosbio.com/index.html))
+* Citation: [https://doi.org/10.1186/s13321-018-0271-1](https://doi.org/10.1186/s13321-018-0271-1)
+* Version: 2.0.0
+* License: Copyrighted by Aros Bio
+* Source Code: [https://github.com/pharmbio/cplogd-v2.0](https://github.com/pharmbio/cplogd-v2.0)
+* Docker: [https://github.com/pharmbio/cplogd-v2.0/pkgs/container/cplogd-v2.0](https://github.com/pharmbio/cplogd-v2.0/pkgs/container/cplogd-v2.0)
+* Bio.tools: 
+* FAIRsharing: 
+* TeSS: 
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 

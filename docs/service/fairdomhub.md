@@ -5,35 +5,10 @@
 A web-accessible registry for storing, sharing and publishing research assets of biology projects.
 
 
-##  Service
 
-*  cloud: [https://fairdomhub.org/](https://fairdomhub.org/) []()
-* Login required: 
-* Implementation status: 
-* TRL: 
-* Type: -
-* Contact: FAIRDOM community@fair-dom.org
-* API Type: 
-* Demo: []()
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: FAIRDOM ([https://fair-dom.org/](https://fair-dom.org/))
-* Citation: [https://doi.org/10.1093/nar/gkw1032](https://doi.org/10.1093/nar/gkw1032)
-* Version: 
-* License: 
-* Source Code: 
-* Docker: 
-* Bio.tools: 
-* FAIRsharing: 
-* TeSS: 
-* RSD: 
-* Wikipedia: 
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -51,11 +26,39 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+##  Service Metadata
+
+*  cloud: [https://fairdomhub.org/](https://fairdomhub.org/) []()
+* Login required: 
+* Implementation status: 
+* TRL: 
+* Type: -
+* Contact: FAIRDOM community@fair-dom.org
+* API Type: 
+* Demo: []()
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: FAIRDOM ([https://fair-dom.org/](https://fair-dom.org/))
+* Citation: [https://doi.org/10.1093/nar/gkw1032](https://doi.org/10.1093/nar/gkw1032)
+* Version: 
+* License: 
+* Source Code: 
+* Docker: 
+* Bio.tools: 
+* FAIRsharing: 
+* TeSS: 
+* RSD: 
+* Wikipedia: 
 
 ## Tool integration
 
