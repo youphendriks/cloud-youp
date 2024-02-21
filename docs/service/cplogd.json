@@ -7,8 +7,9 @@
   "doi": "10.1186/s13321-018-0271-1",
 
   "instance": {
-    "type": "External",
+    "type": "VHP4Safety",
     "vhp-platform": "Development",
+    "url": "https://cplogd.cloud.vhp4safety.nl/",
     "license": "Copyrighted by Aros Bio",
     "version": "2.0.0",
     "source": "https://github.com/pharmbio/cplogd-v2.0",
