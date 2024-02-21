@@ -10,6 +10,10 @@
     "vhp-platform": "Development",
     "url": "https://aopwiki.cloud.vhp4safety.nl/"
   },
+  "intro": {
+    "title": "AOPLink: Extracting and Analyzing Data Related to an AOP of Interest",
+    "url": "https://docs.vhp4safety.nl/en/latest/tutorials/aoplink/aoplink.html"
+  },
   "provider": {
     "contact": {
       "name": "Marvin Martens",
