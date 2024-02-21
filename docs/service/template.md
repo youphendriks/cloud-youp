@@ -5,35 +5,10 @@
 %description%
 
 %screenshot%
-## %instance.type% Service
 
-* %instance.vhp-platform% cloud: [%url%](%url%) [%instance.url%](%instance.url%)
-* Login required: %access.login%
-* Implementation status: 
-* TRL: %instance.TRL%
-* Type: -
-* Contact: %provider.contact.name% %provider.contact.email%
-* API Type: %access.API%%access.packages.R%%access.packages.Python%
-* Demo: [%demo.title%](%demo.url%)
-* Categories: -
-* Targeted users: -
-* Relevant VHP4Safety Use case: -
+## Documentation
 
-## Tool specifications
-
-* Provided by: %provider.name% %provider.url%
-* Citation: %doi%
-* Version: %instance.version%
-* License: %instance.license%
-* Source Code: %instance.source%
-* Docker: %instance.docker%
-* Bio.tools: %ELIXIR.biotools%
-* FAIRsharing: %ELIXIR.fairsharing%
-* TeSS: %ELIXIR.tess%
-* RSD: %Other.rsd%
-* Wikipedia: %Other.wikipedia%
-
-<h3 id="tess-widget-materials-header"></h3>
+<h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
@@ -56,6 +31,34 @@ function initTeSSWidgets() {
 }
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+## %instance.type% Service Metadata
+
+* %instance.vhp-platform% cloud: [%url%](%url%) [%instance.url%](%instance.url%)
+* Login required: %access.login%
+* Implementation status: 
+* TRL: %instance.TRL%
+* Type: -
+* Contact: %provider.contact.name% %provider.contact.email%
+* API Type: %access.API%%access.packages.R%%access.packages.Python%
+* Demo: [%demo.title%](%demo.url%)
+* Categories: -
+* Targeted users: -
+* Relevant VHP4Safety Use case: -
+
+## Technical tool specifications
+
+* Provided by: %provider.name% %provider.url%
+* Citation: %doi%
+* Version: %instance.version%
+* License: %instance.license%
+* Source Code: %instance.source%
+* Docker: %instance.docker%
+* Bio.tools: %ELIXIR.biotools%
+* FAIRsharing: %ELIXIR.fairsharing%
+* TeSS: %ELIXIR.tess%
+* RSD: %Other.rsd%
+* Wikipedia: %Other.wikipedia%
 
 ## Tool integration
 
