@@ -38,9 +38,9 @@ function initTeSSWidgets() {
 </script>
 <script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
 
-## External Service Metadata
+## VHP4Safety Service Metadata
 
-* Development cloud: [https://cplogd.cloud.vhp4safety.nl/](https://cplogd.cloud.vhp4safety.nl/) []()
+* Development cloud: [https://cplogd.cloud.vhp4safety.nl/](https://cplogd.cloud.vhp4safety.nl/) [https://cplogd.cloud.vhp4safety.nl/](https://cplogd.cloud.vhp4safety.nl/)
 * Login required: 
 * Implementation status: 
 * TRL: 
