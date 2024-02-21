@@ -8,6 +8,12 @@
 
 ## Documentation
 
+### VHP4Safety Documentation
+
+* Serivice introduction: [%intro.title%](%intro.url%)
+* Workflow: [%workflow.title%](%workflow.url%)
+* Demo: [%demo.title%](%demo.url%)
+
 <h4 id="tess-widget-materials-header"></h4>
 
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
@@ -41,7 +47,6 @@ function initTeSSWidgets() {
 * Type: -
 * Contact: %provider.contact.name% %provider.contact.email%
 * API Type: %access.API%%access.packages.R%%access.packages.Python%
-* Demo: [%demo.title%](%demo.url%)
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -
