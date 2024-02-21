@@ -8,7 +8,7 @@
 
 ## Documentation
 
-### VHP4Safety Documentation
+#### VHP4Safety Documentation
 
 * Serivice introduction: [%intro.title%](%intro.url%)
 * Workflow: [%workflow.title%](%workflow.url%)
