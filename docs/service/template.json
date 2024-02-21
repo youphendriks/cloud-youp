@@ -127,10 +127,22 @@
   // [?OC] Do we mean a tutorial documentation that will be provided on our 
   // docs-repo? If so, I think we should make it clear here because this will
   // be filled by us. 
+  "intro": {
+    // The title of the intro on the VHP4Safety platform.
+    "title": "",
+    // A link to the intro on the VHP4Safety platform.
+    "url": ""
+  },
   "demo": {
     // The title of the demo.
     "title": "",
     // A link to the demo. 
+    "url": ""
+  },
+  "workflow": {
+    // The title of the VHP4Safety workflow where it is being used. TODO: should be one or more.
+    "title": "",
+    // A link to the workflow.
     "url": ""
   },
 

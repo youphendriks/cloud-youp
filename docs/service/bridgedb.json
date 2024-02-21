@@ -13,6 +13,14 @@
     "source": "https://github.com/bridgedb/BridgeDb",
     "docker": "https://hub.docker.com/r/bigcatum/bridgedb"
   },
+  "intro": {
+    "title": "BridgeDb: Mapping Gene Identifiers",
+    "url": "https://docs.vhp4safety.nl/en/latest/tutorials/bridgedb/gene_hgnc_name_to_ensembl.html"
+  },
+  "workflow": {
+    "title": "Information about chemicals",
+    "url": "https://docs.vhp4safety.nl/en/latest/tutorials/cheminfo/intro.html"
+  },
   "provider": {
     "contact": {
       "name": "Egon Willighagen"

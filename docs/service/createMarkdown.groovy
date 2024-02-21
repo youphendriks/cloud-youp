@@ -81,6 +81,10 @@ if (dataFile != "template.json") {
     if (line.contains("%ELIXIR.tess.noExpand%")) { line = process(line, data, "ELIXIR.tess.noExpand") }
     if (line.contains("%Other.wikipedia%")) { line = processRich(line, data, "Other.wikipedia", "[%instance.docker%](https://en.wikipedia.org/wiki/%Other.wikipedia%)") }
     if (line.contains("%Other.rsd%")) { line = processRich(line, data, "Other.rsd", "[%Other.rsd%](https://research-software-directory.org/software/%Other.rsd%)") }
+    if (line.contains("%intro.title%")) { line = process(line, data, "intro.title") }
+    if (line.contains("%intro.url%")) { line = process(line, data, "intro.url") }
+    if (line.contains("%workflow.title%")) { line = process(line, data, "workflow.title") }
+    if (line.contains("%workflow.url%")) { line = process(line, data, "workflow.url") }
     if (line.contains("%demo.title%")) { line = process(line, data, "demo.title") }
     if (line.contains("%demo.url%")) { line = process(line, data, "demo.url") }
     outputFile << line + "\n"
