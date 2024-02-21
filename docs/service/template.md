@@ -10,7 +10,7 @@
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: [%intro.title%](%intro.url%)
+* Service introduction: [%intro.title%](%intro.url%)
 * Workflow: [%workflow.title%](%workflow.url%)
 * Demo: [%demo.title%](%demo.url%)
 
