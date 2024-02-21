@@ -6,7 +6,7 @@ on:
     paths:
       - 'docs/service/*.json'
   pull_request:
-    branches:    
+    branches:
       - main
     paths:
       - 'docs/service/*.json'
@@ -15,7 +15,7 @@ jobs:
   webpage:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 0
