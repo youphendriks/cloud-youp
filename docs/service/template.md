@@ -51,7 +51,7 @@ function initTeSSWidgets() {
                     q: query
                 }
             });
-        document.getElementById('tess-widget-materials-header').innerHTML = "ELIXIR TeSS material"
+        document.getElementById('tess-widget-materials-header').innerHTML = "Documentation from ELIXIR TeSS"
     }
 }
 </script>
