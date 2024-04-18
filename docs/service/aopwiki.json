@@ -8,8 +8,8 @@
   "instance": {
     "type": "VHP4Safety",
     "vhp-platform": "Development",
-    "url": "https://aopwiki.cloud.vhp4safety.nl/"
-    "source": "https://github.com/marvinm2/aopwiki-snorql-extended"
+    "url": "https://aopwiki.cloud.vhp4safety.nl/",
+    "source": "https://github.com/marvinm2/aopwiki-snorql-extended",
     "docker": "https://hub.docker.com/r/aammar/snorql-httpd"
   },
   "intro": {
