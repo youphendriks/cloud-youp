@@ -10,7 +10,7 @@ An R-Shiny-based implementation of weighted gene co-expression network analysis 
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: []()
+* Service introduction: []()
 * Workflow: []()
 * Demo: []()
 

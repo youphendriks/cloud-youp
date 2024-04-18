@@ -10,7 +10,7 @@ A web-accessible registry for storing, sharing and publishing research assets of
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: []()
+* Service introduction: []()
 * Workflow: []()
 * Demo: []()
 

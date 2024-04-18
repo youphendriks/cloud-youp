@@ -10,8 +10,8 @@ Graphical interface to an AOP-Wiki SPARQL endpoint.
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: [AOPLink: Extracting and Analyzing Data Related to an AOP of Interest](https://docs.vhp4safety.nl/en/latest/tutorials/aoplink/aoplink.html)
-* Workflow: []()
+* Service introduction: [AOP-Wiki SNORQL introduction](-)
+* Workflow: [AOPLink: Extracting and Analyzing Data Related to an AOP of Interest](https://docs.vhp4safety.nl/en/latest/tutorials/aoplink/aoplink.html)
 * Demo: []()
 
 <h4 id="tess-widget-materials-header"></h4>
@@ -57,8 +57,8 @@ function initTeSSWidgets() {
 * Citation: [https://doi.org/10.1089/aivt.2021.0010](https://doi.org/10.1089/aivt.2021.0010)
 * Version: 
 * License: 
-* Source Code: 
-* Docker: 
+* Source Code: [https://github.com/marvinm2/aopwiki-snorql-extended](https://github.com/marvinm2/aopwiki-snorql-extended)
+* Docker: [https://hub.docker.com/r/aammar/snorql-httpd](https://hub.docker.com/r/aammar/snorql-httpd)
 * Bio.tools: [https://bio.tools/aop-wiki_rdf](https://bio.tools/aop-wiki_rdf)
 * FAIRsharing: 
 * TeSS: 

@@ -10,7 +10,7 @@ Service to generate online virtual human population.
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: []()
+* Service introduction: []()
 * Workflow: []()
 * Demo: []()
 

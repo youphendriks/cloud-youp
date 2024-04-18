@@ -10,7 +10,7 @@ Open-source software application for creating and solving mathematical models of
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: []()
+* Service introduction: []()
 * Workflow: []()
 * Demo: []()
 

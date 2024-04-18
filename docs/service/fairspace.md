@@ -10,7 +10,7 @@ An open source (meta)data platform that also allows import/export of metadata an
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: []()
+* Service introduction: []()
 * Workflow: []()
 * Demo: []()
 

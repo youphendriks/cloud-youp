@@ -10,7 +10,7 @@ BioModels is a repository of mathematical models of biological and biomedical sy
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: []()
+* Service introduction: []()
 * Workflow: []()
 * Demo: []()
 

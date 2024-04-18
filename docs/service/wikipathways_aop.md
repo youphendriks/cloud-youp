@@ -10,7 +10,7 @@ This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the mole
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: []()
+* Service introduction: []()
 * Workflow: []()
 * Demo: []()
 

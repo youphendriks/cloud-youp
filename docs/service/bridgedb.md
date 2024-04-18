@@ -10,7 +10,7 @@ A framework to map identifiers between various biological databases and related 
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: [BridgeDb: Mapping Gene Identifiers](https://docs.vhp4safety.nl/en/latest/tutorials/bridgedb/gene_hgnc_name_to_ensembl.html)
+* Service introduction: [BridgeDb: Mapping Gene Identifiers](https://docs.vhp4safety.nl/en/latest/tutorials/bridgedb/gene_hgnc_name_to_ensembl.html)
 * Workflow: [Information about chemicals](https://docs.vhp4safety.nl/en/latest/tutorials/cheminfo/intro.html)
 * Demo: []()
 

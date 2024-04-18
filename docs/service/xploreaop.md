@@ -10,7 +10,7 @@ Shiny webapplication to visualize Adverse Outcome Pathway (AOP) networks. So far
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: []()
+* Service introduction: []()
 * Workflow: []()
 * Demo: []()
 

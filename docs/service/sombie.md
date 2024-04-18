@@ -10,7 +10,7 @@ A webservice for protein-structure and reactivity based (P450) site-of-metabolis
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: [SOM Prediction: Site-of-Metabolism Prediction](https://docs.vhp4safety.nl/en/latest/tutorials/sombie/site_of_metabolism_prediction.html)
+* Service introduction: [SOM Prediction: Site-of-Metabolism Prediction](https://docs.vhp4safety.nl/en/latest/tutorials/sombie/site_of_metabolism_prediction.html)
 * Workflow: []()
 * Demo: []()
 

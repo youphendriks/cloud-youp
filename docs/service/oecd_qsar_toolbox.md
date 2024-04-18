@@ -10,7 +10,7 @@ The OECD QSAR Toolbox is a software designed to support hazard assessment of che
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: []()
+* Service introduction: []()
 * Workflow: []()
 * Demo: []()
 

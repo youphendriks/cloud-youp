@@ -10,7 +10,7 @@ A catalogue of metadata records about datasets.
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: []()
+* Service introduction: []()
 * Workflow: []()
 * Demo: []()
 

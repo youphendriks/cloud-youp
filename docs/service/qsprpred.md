@@ -10,7 +10,7 @@ Service to train and employ QSAR and PCM models. Takes a compound structure and 
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: []()
+* Service introduction: []()
 * Workflow: []()
 * Demo: [Tutorial usage](https://github.com/CDDLeiden/QSPRpred/blob/main/tutorial/tutorial_usage.ipynb)
 

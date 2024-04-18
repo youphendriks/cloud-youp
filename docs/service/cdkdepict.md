@@ -10,7 +10,7 @@ A webservice that converts a SMILES into 2D depictions (SVG or PNG).
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: []()
+* Service introduction: []()
 * Workflow: []()
 * Demo: []()
 

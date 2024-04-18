@@ -10,7 +10,7 @@ An open source framework for model development, hosting, and usage in production
 
 #### VHP4Safety Documentation
 
-* Serivice introduction: []()
+* Service introduction: []()
 * Workflow: []()
 * Demo: []()
 
