@@ -87,6 +87,20 @@ if (dataFile != "template.json") {
     if (line.contains("%workflow.url%")) { line = process(line, data, "workflow.url") }
     if (line.contains("%demo.title%")) { line = process(line, data, "demo.title") }
     if (line.contains("%demo.url%")) { line = process(line, data, "demo.url") }
+    if (line.contains("%NAM-validation.NAM-stage-1%")) { line = process(line, data, "NAM-validation.NAM-stage-1") }
+    if (line.contains("%NAM-validation.NAM-stage-2%")) { line = process(line, data, "NAM-validation.NAM-stage-2") }
+    if (line.contains("%NAM-validation.NAM-stage-3%")) { line = process(line, data, "NAM-validation.NAM-stage-3") }
+    if (line.contains("%NAM-validation.NAM-stage-4%")) { line = process(line, data, "NAM-validation.NAM-stage-4") }
+    if (line.contains("%NAM-validation.NAM-stage-5%")) { line = process(line, data, "NAM-validation.NAM-stage-5") }
+    if (line.contains("%VHP-persona.persona-1%")) { line = process(line, data, "VHP-persona.persona-1") }
+    if (line.contains("%VHP-persona.persona-2%")) { line = process(line, data, "VHP-persona.persona-2") }
+    if (line.contains("%VHP-persona.persona-3%")) { line = process(line, data, "VHP-persona.persona-3") }
+    if (line.contains("%regulatory-question.1a%")) { line = process(line, data, "regulatory-question.1a") }
+    if (line.contains("%regulatory-question.1b%")) { line = process(line, data, "regulatory-question.1b") }
+    if (line.contains("%regulatory-question.2a%")) { line = process(line, data, "regulatory-question.2a") }
+    if (line.contains("%regulatory-question.2b%")) { line = process(line, data, "regulatory-question.2b") }
+    if (line.contains("%regulatory-question.3a%")) { line = process(line, data, "regulatory-question.3a") }
+    if (line.contains("%regulatory-question.3b%")) { line = process(line, data, "regulatory-question.3b") }
     outputFile << line + "\n"
   }
 }
