@@ -143,7 +143,7 @@
     // The title of the VHP4Safety workflow where it is being used. TODO: should be one or more.
     "title": "",
     // A link to the workflow.
-    "url": ""
+    "url": "",
   },
 
   // Information regarding sources available on ELIXIR.
@@ -165,6 +165,52 @@
     "wikipedia": "",
     // Dutch Research Software Directory
     "rsd": ""
-  }
+  },
+
+  // Information about NAM validation stage as described in the 2017 RIVM report (https://www.rivm.nl/documenten/landschap-3v-methoden-risicobeoordeling-chemische-stoffen)
+  // Answer wether the service has completed the stage using yes or no.
+  "NAM-validation": {
+    // Stage 1: Research & development.
+    "NAM-stage-1": "",
+    // Stage 2: Validation.
+    "NAM-stage-2": "",
+    // Stage 3: Evaluation.
+    "NAM-stage-3": "",
+    // Stage 4: Acceptation.
+    "NAM-stage-4": "",
+    // Stage 5: Implementation.
+    "NAM-stage-5": ""
+  },
+
+  // Is the service usable by one, or more, of the VHP persona's?
+  // Answer yes or no.
+  "VHP-persona": {
+    // VHP persona 1
+    "persona-1": "",
+    // VHP persona 2
+    "persona-2": "",
+    // VHP persona 3
+    "persona-3": ""
+  },
+
+  // Is the service relevant for answering one, or more, of the regulatory questions as read on (https://docs.vhp4safety.nl/en/latest/introduction/case_studies_and_regulatory_questions.html)?
+  // Question 1: Kidney Disease: Disease scenario to study disease and pharmacovigilance.
+  // Question 2: Life Course Pesticide Exposure and Neurodegenerative Disease: Life course exposure scenario to study life course exposure and neurodegenerative disease.
+  // Question 3: Thyroid Mediated Developmental Neurotoxicity: Age and sex scenario to study health effects discriminated by age and sex on thyroid mediated neurodevelopment.
+  "regulatory-question": {
+    // 1a: What is a safe dose for cisplatin/tacrolimus in patients with respect to chronic kidney disease?
+    "1a": "",
+    // 1b: How can we take into account variability in activity/expression of P-gp in patients that underwent a transplantation?
+    "1b": "",
+    // 2a: Can compound X cause Parkinson’s Disease?
+    "2a": "",
+    // 2b: Can we identify groups at extra risk to develop Parkinson’s Disease after exposure to compound X?
+    "2b": "",
+    // 3a: What information about a substance do we need to give an advice to women in their early pregnancy to decide whether the substance can be used?
+    "3a": "",
+    // 3b: Does compound X influence the thyroid-mediated brain development in the fetus resulting in cognitive impairment in children?
+    "3b": ""
+  },
+
 
 }
