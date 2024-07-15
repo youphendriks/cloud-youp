@@ -184,6 +184,7 @@
 
   // Is the service usable by one, or more, of the VHP persona's?
   // Answer yes or no.
+  // TODO: Replace placeholders (eg. "persona-1") with persona's and descriptions of persona. These are yet to be created.
   "VHP-persona": {
     // VHP persona 1
     "persona-1": "",
