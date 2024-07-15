@@ -36,7 +36,7 @@ function initTeSSWidgets() {
     }
 }
 </script>
-<script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+<script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
 
 ## No API Service Metadata
 
