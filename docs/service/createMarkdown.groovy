@@ -46,7 +46,7 @@ def processRich(line, data, selector, expanding) {
 args.each { dataFile ->
 if (dataFile != "template.json") {
   fileContents = new File(dataFile).text
-    def data = new JsonSlurper().parseText(fileContents).setType(JsonParserType.LAX)
+    def data = new JsonSlurper().parseText(fileContents)
 
   outputFile = new File(data.id + ".md")
   outputFile.text = ""

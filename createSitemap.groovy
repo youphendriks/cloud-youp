@@ -27,7 +27,7 @@ list = list.sort()
 list.each { file ->
   fileContents = file.text
   //def data = new JsonSlurper().parseText(fileContents)
-  def data = new JsonSlurper().parseText(fileContents).setType(JsonParserType.LAX)
+  def data = new JsonSlurper().parseText(fileContents)
   println """<url>
   <loc>https://cloud.vhp4safety.nl/service/${data.id}.html</loc>
   <priority>1.00</priority>
