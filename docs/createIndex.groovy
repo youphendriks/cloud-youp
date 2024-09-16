@@ -49,7 +49,8 @@ list = list.sort()
 
 list.each { file ->
   fileContents = file.text
-  def data = new JsonSlurper().parseText(fileContents)
+  //def data = new JsonSlurper().parseText(fileContents)
+  def data = new JsonSlurper().parseText(fileContents).setType(JsonParserType.LAX)
   logo = ""
   if (data.instance && (data.instance.type == "VHP4Safety") && (data.instance["vhp-platform"] == "Development")) {
     if (data.screenshot) logo = "<img width=\"150\" align=\"right\"\n     alt=\"screenshot of the service\" \n     src=\"service/${data.screenshot}\">"
