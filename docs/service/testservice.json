@@ -1,6 +1,5 @@
 
 // This is a template for JSON files that can provide a standard way to add
-// new services to the cloud catalog, maintained with this repository.
 
 /* Please create a new JSON file to add a new service to the catalog. While
 creating that file based on this template, please consider the comments
