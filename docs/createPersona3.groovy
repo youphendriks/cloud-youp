@@ -42,13 +42,13 @@ for (item in list) {
     if (data.VHPpersona.persona3 == "true") {
       logo = ""
       if (data.screenshot) logo = "![${data.service} logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/${data.screenshot} \"Click on the image to go to the service\")\n"
-      println """-------------------------------------------------------------------------------
-  ${logo}
-  ## ${data.service}
+    println """-------------------------------------------------------------------------------
+${logo}
+## ${data.service}
 
-  ${data.description} [[more info](service/${data.id}.md)]
+${data.description} [[more info](service/${data.id}.md)]
 
-  """
+"""
       }
   }
 
