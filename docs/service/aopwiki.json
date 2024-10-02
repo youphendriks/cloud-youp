@@ -32,5 +32,10 @@
   },
   "ELIXIR": {
     "biotools": "aop-wiki_rdf"
+  },
+  "VHPpersona": {
+    "persona1": "true",
+    "persona-2": "",
+    "persona-3": ""
   }
 }

@@ -38,5 +38,10 @@
   },
   "Other": {
     "rsd": "bridgedb-java"
+  },
+  "VHPpersona": {
+    "persona1": "true",
+    "persona-2": "",
+    "persona-3": ""
   }
 }

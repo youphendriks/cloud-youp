@@ -29,6 +29,9 @@ jobs:
       - name: Generate catalog
         run: cd docs ; groovy createCatalog.groovy > catalog.md ; groovy createIndex.groovy > index.md
 
+      - name: Generate persona pages
+        run: cd docs; groovy createPersona1.groovy > persona1.md ; groovy createPersona2.groovy > persona2.md ; groovy createPersona3.groovy > persona3.md
+
       - name: Generate service pages
         run: cd docs/service ; groovy createMarkdown.groovy *.json
 
@@ -39,6 +42,9 @@ jobs:
           git add docs/sitemap.xml
           git add docs/index.md
           git add docs/catalog.md
+          git add docs/persona1.md
+          git add docs/persona2.md
+          git add docs/persona3.md
           git add docs/service/*.md
           if git diff --exit-code --staged; then
               echo "No changes"
