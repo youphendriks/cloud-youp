@@ -10,21 +10,21 @@ Below you find an overview of services available in the context of the VHP4Safet
 and users can [request additional services](https://github.com/VHP4Safety/cloud/issues/new/choose).
 
 -------------------------------------------------------------------------------
-  ![AOP-Wiki Snorql UI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwiki.png "Click on the image to go to the service")
+![AOP-Wiki Snorql UI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwiki.png "Click on the image to go to the service")
 
-  ## AOP-Wiki Snorql UI
+## AOP-Wiki Snorql UI
 
-  Graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki.md)]
+Graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki.md)]
 
-  
+
 -------------------------------------------------------------------------------
-  ![BridgeDb logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/bridgedb.png "Click on the image to go to the service")
+![BridgeDb logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/bridgedb.png "Click on the image to go to the service")
 
-  ## BridgeDb
+## BridgeDb
 
-  A framework to map identifiers between various biological databases and related sources. [[more info](service/bridgedb.md)]
+A framework to map identifiers between various biological databases and related sources. [[more info](service/bridgedb.md)]
 
-  
+
 
 ### Funding
 
